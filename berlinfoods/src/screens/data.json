@@ -1,0 +1,4187 @@
+{
+  "AddOn": {
+    "addOn0": {
+      "isCheck": false,
+      "itemName": "Fries",
+      "price": 150,
+      "quantity": 0
+    },
+    "addOn1": {
+      "isCheck": false,
+      "itemName": "Hot Shot",
+      "price": 90,
+      "quantity": 0
+    },
+    "addOn2": {
+      "isCheck": false,
+      "itemName": "Crunch Wings",
+      "price": 140,
+      "quantity": 0
+    }
+  },
+  "Drinks": ["Select flavour", "Coca Cola", "7up", "Fanta"],
+  "History": {
+    "09_10_2018": {
+      "-LONF-f6C4N56d0u1op6": {
+        "address": "Take Away",
+        "customizeDescription": " Double Tower (1), Double Tower (2), Coca Cola (1), Coca Cola (1)",
+        "delivery_time": "Accepted, 45 min",
+        "dishCategory": " Zinger_Burger, Zinger_Burger",
+        "dishName": " Double Tower (1), Double Tower (2)",
+        "orderTime": "14:54 PM",
+        "phoneNumber": "take_home",
+        "specialInstructions": "no instructions",
+        "totalPrice": 1280,
+        "username": "take_home"
+      },
+      "-LONTFXzUjpN59eBixDF": {
+        "address": "Take Away",
+        "customizeDescription": " Veggie (1), Fanta (1)",
+        "delivery_time": "Accepted, 45 min",
+        "dishCategory": " Pizza",
+        "dishName": " Veggie (1)",
+        "orderTime": "15:56 PM",
+        "phoneNumber": "take_home",
+        "specialInstructions": "no instructions",
+        "totalPrice": 340,
+        "username": "take_home"
+      },
+      "-LONTZXiEuu3EP4Bs8Rg": {
+        "address": "Take Away",
+        "customizeDescription": " New Arrival (1), Veggie (5), 7up (1), Fanta (5)",
+        "delivery_time": "Accepted, 45 min",
+        "dishCategory": " New_Arrival, Pizza",
+        "dishName": " New Arrival (1), Veggie (5)",
+        "orderTime": "15:58 PM",
+        "phoneNumber": "take_home",
+        "specialInstructions": "no instructions",
+        "totalPrice": 1770,
+        "username": "take_home"
+      },
+      "1539060325470": {
+        "address": "Table No. 1",
+        "customizeDescription": " 1 New Arrival, Pizza Deal Flavors (Chicken Kebab) Drink Flavour (7up)\n 1 New Arrival, Make a meal (1 Fries & Regular Drink), Pizza Deal Flavors (Chicken Kebab) Drink Flavour (7up)\n",
+        "delivery_time": "Accepted, 15 min",
+        "dishCategory": "New Arrival",
+        "dishName": "",
+        "orderTime": "04:45 AM",
+        "phoneNumber": "",
+        "specialInstructions": "",
+        "totalPrice": 660,
+        "username": "Shoaib "
+      },
+      "1539063027503": {
+        "address": "Al Rehmat Plaza, G-11, Islamabad, Pakistan",
+        "customizeDescription": " 1 Mighty Burger,\n",
+        "delivery_time": "Accepted, 15 min",
+        "dishCategory": "Zinger Burger",
+        "dishName": "",
+        "orderTime": "05:30 AM",
+        "phoneNumber": "+923454080247",
+        "specialInstructions": "",
+        "totalPrice": 420,
+        "username": "Hassan Iqbal Khan"
+      },
+      "1539063033748": {
+        "address": "Table No. 1",
+        "customizeDescription": " 1 Double Tower, Make a meal (1 Fries & Regular Drink),\n",
+        "delivery_time": "Accepted, 15 min",
+        "dishCategory": "",
+        "dishName": "",
+        "orderTime": "05:30 AM",
+        "phoneNumber": "",
+        "specialInstructions": "",
+        "totalPrice": 500,
+        "username": " gal"
+      },
+      "1539066551724": {
+        "address": "Table No. 1",
+        "customizeDescription": " 1 Chicken Burgers,\n",
+        "delivery_time": "Accepted, 15 min",
+        "dishCategory": "",
+        "dishName": "",
+        "orderTime": "11:29 AM",
+        "phoneNumber": "",
+        "specialInstructions": "",
+        "totalPrice": 400,
+        "username": "Shoaib "
+      },
+      "1539066584701": {
+        "address": "Table No. 1, Islamabad, Pakistan",
+        "customizeDescription": " 1 Chicken Burgers,\n",
+        "delivery_time": "Accepted, 15 min",
+        "dishCategory": "Deals of the day",
+        "dishName": "",
+        "orderTime": "11:29 AM",
+        "phoneNumber": "",
+        "specialInstructions": "",
+        "totalPrice": 400,
+        "username": "Shoaib "
+      },
+      "1539066608469": {
+        "address": "Table No. 1, Islamabad, Pakistan",
+        "customizeDescription": " 1 Chicken Burgers,\n",
+        "delivery_time": "Accepted, 15 min",
+        "dishCategory": "Deals of the day",
+        "dishName": "",
+        "orderTime": "11:30 AM",
+        "phoneNumber": "",
+        "specialInstructions": "",
+        "totalPrice": 400,
+        "username": "Shoaib "
+      },
+      "1539066623024": {
+        "address": "Table No. 4",
+        "customizeDescription": " 1 Chicken Burgers,\n",
+        "delivery_time": "Accepted, 15 min",
+        "dishCategory": "Deals of the day",
+        "dishName": "",
+        "orderTime": "11:30 AM",
+        "phoneNumber": "",
+        "specialInstructions": "",
+        "totalPrice": 400,
+        "username": "Shoaib "
+      },
+      "1539067233095": {
+        "address": "Table No. 1",
+        "customizeDescription": " 1 Deal 3, Drink Flavour (Coca Cola,7up)\n",
+        "delivery_time": "Rejected, Rider is not available",
+        "dishCategory": "Burger Deals",
+        "dishName": "",
+        "orderTime": "11:40 AM",
+        "phoneNumber": "",
+        "specialInstructions": "",
+        "totalPrice": 800,
+        "username": "Test user"
+      },
+      "1539067279487": {
+        "address": "Table No. 1",
+        "customizeDescription": " 1 New Arrival, Pizza Deal Flavors (Chicken Tikka) Drink Flavour (7up,7up)\n",
+        "delivery_time": "Accepted, 15 min",
+        "dishCategory": "New Arrival",
+        "dishName": "",
+        "orderTime": "11:41 AM",
+        "phoneNumber": "",
+        "specialInstructions": "",
+        "totalPrice": 330,
+        "username": "Test user"
+      },
+      "1539067322213": {
+        "address": "Hello street 7\nG11, G-11, Islamabad, Pakistan",
+        "customizeDescription": " 1 Zinger Burgers, Add-on (1 Crunch Wings),\n",
+        "delivery_time": "Accepted, 15 min",
+        "dishCategory": "Deals of the day",
+        "dishName": "",
+        "orderTime": "11:42 AM",
+        "phoneNumber": "+923118536999",
+        "specialInstructions": "",
+        "totalPrice": 590,
+        "username": "Test user"
+      },
+      "1539067338128": {
+        "address": "",
+        "customizeDescription": " 1 Zinger Burgers,\n",
+        "delivery_time": "Accepted, 15 min",
+        "dishCategory": "Deals of the day",
+        "dishName": "",
+        "orderTime": "11:42 AM",
+        "phoneNumber": "+923118536999",
+        "specialInstructions": "",
+        "totalPrice": 450,
+        "username": "Test user"
+      },
+      "1539067590517": {
+        "address": "Hello street 7\nG11, G-11",
+        "customizeDescription": " 1 Zinger Burgers,\n",
+        "delivery_time": "Accepted, 15 min",
+        "dishCategory": "Deals of the day",
+        "dishName": "",
+        "orderTime": "11:46 AM",
+        "phoneNumber": "+923118536999",
+        "specialInstructions": "",
+        "totalPrice": 450,
+        "username": "Test user"
+      },
+      "1539067600014": {
+        "address": "",
+        "customizeDescription": " 1 Chicken Burgers,\n",
+        "delivery_time": "Accepted, 15 min",
+        "dishCategory": "Deals of the day",
+        "dishName": "",
+        "orderTime": "11:46 AM",
+        "phoneNumber": "+923118536999",
+        "specialInstructions": "",
+        "totalPrice": 400,
+        "username": "Test user"
+      },
+      "1539067621391": {
+        "address": "Table No. 1",
+        "customizeDescription": " 1 Tower Burgers, Drink Flavour (7up,Fanta)\n",
+        "delivery_time": "Accepted, 15 min",
+        "dishCategory": "Deals of the day",
+        "dishName": "",
+        "orderTime": "11:47 AM",
+        "phoneNumber": "",
+        "specialInstructions": "",
+        "totalPrice": 600,
+        "username": "Test user"
+      },
+      "1539068101174": {
+        "address": "Table No. 1",
+        "customizeDescription": " 1 Kebab Pizza, Drink Flavour (Fanta,Fanta)\n",
+        "delivery_time": "Accepted, 15 min",
+        "dishCategory": "",
+        "dishName": "",
+        "orderTime": "11:55 AM",
+        "phoneNumber": "",
+        "specialInstructions": "",
+        "totalPrice": 1000,
+        "username": "Test user"
+      },
+      "1539068342378": {
+        "address": "Hello street 7\nG11, G-11, Islamabad, Pakistan",
+        "customizeDescription": " 0 Double Chicken Burger, Make a meal (1 Fries & Regular Drink),\n",
+        "delivery_time": "Accepted, 15 min",
+        "dishCategory": "Chicken Burger",
+        "dishName": "",
+        "orderTime": "11:59 AM",
+        "phoneNumber": "+923118536999",
+        "specialInstructions": "",
+        "totalPrice": 380,
+        "username": "Test user"
+      },
+      "1539068354021": {
+        "address": "Hello street 7\nG11, G-11, Islamabad, Pakistan",
+        "customizeDescription": " 0 Zinger Burgers, Add-on (1 Fries),\n",
+        "delivery_time": "Accepted, 15 min",
+        "dishCategory": "Deals of the day",
+        "dishName": "",
+        "orderTime": "11:59 AM",
+        "phoneNumber": "+923118536999",
+        "specialInstructions": "",
+        "totalPrice": 600,
+        "username": "Test user"
+      },
+      "1539068366272": {
+        "address": "Hello street 7\nG11, H-11, Islamabad, Pakistan",
+        "customizeDescription": " 0 Zinger Burgers,\n",
+        "delivery_time": "Accepted, 15 min",
+        "dishCategory": "Deals of the day",
+        "dishName": "",
+        "orderTime": "11:59 AM",
+        "phoneNumber": "+923118536999",
+        "specialInstructions": "",
+        "totalPrice": 450,
+        "username": "Test user"
+      },
+      "1539068382942": {
+        "address": "",
+        "customizeDescription": " 0 Zinger Burgers,\n",
+        "delivery_time": "Accepted, 15 min",
+        "dishCategory": "Deals of the day",
+        "dishName": "",
+        "orderTime": "11:59 AM",
+        "phoneNumber": "+923118536999",
+        "specialInstructions": "",
+        "totalPrice": 450,
+        "username": "Test user"
+      },
+      "1539068916311": {
+        "address": "Hello street 7\nG11, H-11, Islamabad, Pakistan",
+        "customizeDescription": " 0 Chicken Burger,\n",
+        "delivery_time": "Accepted, 15 min",
+        "dishCategory": "Chicken Burger",
+        "dishName": "",
+        "orderTime": "12:08 PM",
+        "phoneNumber": "+923118536999",
+        "specialInstructions": "",
+        "totalPrice": 250,
+        "username": "Test user"
+      },
+      "1539068940563": {
+        "address": "Table No. 1",
+        "customizeDescription": " 0 Smoke BBQ, Pizza Type (Personal)\n",
+        "delivery_time": "Accepted, 1 hr",
+        "dishCategory": "Pizza",
+        "dishName": "",
+        "orderTime": "12:09 PM",
+        "phoneNumber": "",
+        "specialInstructions": "",
+        "totalPrice": 300,
+        "username": "Test user"
+      },
+      "1539069882975": {
+        "address": "Hello street 7\nG11, E-10, Islamabad, Pakistan",
+        "customizeDescription": " 0 Veggie, Pizza Type (Personal)\n 0 Large,\n 0 Double Tower,\n 0 Zinger Burgers,\n 0 Chicken Burgers,\n",
+        "delivery_time": "Accepted, 15 min",
+        "dishCategory": "",
+        "dishName": "",
+        "orderTime": "07:24 AM",
+        "phoneNumber": "+923118536999",
+        "specialInstructions": "",
+        "totalPrice": 1560,
+        "username": "Test user"
+      },
+      "1539071828636": {
+        "address": "",
+        "customizeDescription": " 6 Deal 4, Add-on (1 Fries,1 Hot Shot,1 Crunch Wings), Pizza Deal Flavors (Chicken Kebab) Drink Flavour (7up)\n",
+        "delivery_time": "Accepted, 15 min",
+        "dishCategory": "Burger Deals",
+        "dishName": "",
+        "orderTime": "12:57 PM",
+        "phoneNumber": "+923006088706",
+        "specialInstructions": "",
+        "totalPrice": 5780,
+        "username": "Shoiab Khan"
+      },
+      "1539077684403": {
+        "address": "",
+        "customizeDescription": " 1 New Arrival, Pizza Deal Flavors (Chicken Tikka) Drink Flavour (Fanta)\n",
+        "delivery_time": "Accepted, 15 min",
+        "dishCategory": "New Arrival",
+        "dishName": "",
+        "orderTime": "02:34 PM",
+        "phoneNumber": "+923112528299",
+        "specialInstructions": "",
+        "totalPrice": 330,
+        "username": "NJe"
+      },
+      "1539077692842": {
+        "address": "Table No. 1",
+        "customizeDescription": " 1 Chicken Burgers, Add-on (1 Fries,1 Hot Shot,1 Crunch Wings),\n",
+        "delivery_time": "Accepted, 15 min",
+        "dishCategory": "Deals of the day",
+        "dishName": "",
+        "orderTime": "02:34 PM",
+        "phoneNumber": "",
+        "specialInstructions": "",
+        "totalPrice": 730,
+        "username": "jawaria"
+      },
+      "1539077693963": {
+        "address": "Hello street 7\nG11, E-10, Islamabad, Pakistan",
+        "customizeDescription": " 2 Zinger Burgers, Add-on (1 Fries,1 Hot Shot,1 Crunch Wings),\n 1 Chicken Burgers,\n",
+        "delivery_time": "Accepted, 15 min",
+        "dishCategory": "Deals of the day",
+        "dishName": "",
+        "orderTime": "02:34 PM",
+        "phoneNumber": "+923118536999",
+        "specialInstructions": "",
+        "totalPrice": 1630,
+        "username": "Test user"
+      },
+      "1539077808840": {
+        "address": "Hello street 7\nG11, E-10",
+        "customizeDescription": " 1 Kebab Pizza, Drink Flavour (7up)\n",
+        "delivery_time": "Accepted, 15 min",
+        "dishCategory": "Deals of the day",
+        "dishName": "",
+        "orderTime": "02:36 PM",
+        "phoneNumber": "+923118536999",
+        "specialInstructions": "",
+        "totalPrice": 1000,
+        "username": "Test user"
+      },
+      "1539077916449": {
+        "address": "abc 123 street 5 g11\n, G-10",
+        "customizeDescription": " 1 Kebab Pizza, Drink Flavour (Coca Cola)\n",
+        "delivery_time": "Rejected, Product is not available",
+        "dishCategory": "Deals of the day",
+        "dishName": "",
+        "orderTime": "02:38 PM",
+        "phoneNumber": "+923215200058",
+        "specialInstructions": "",
+        "totalPrice": 1000,
+        "username": "test"
+      },
+      "1539080681867": {
+        "address": "Hello street 7\nG11, E-10",
+        "customizeDescription": " 1 Deal 4, Pizza Deal Flavors (Chicken Tikka) Drink Flavour (7up)\n",
+        "delivery_time": "Accepted, 15 min",
+        "dishCategory": "Burger Deals",
+        "dishName": "",
+        "orderTime": "10:24 AM",
+        "phoneNumber": "+923118536999",
+        "specialInstructions": "",
+        "totalPrice": 900,
+        "username": "Test user"
+      },
+      "1539080701030": {
+        "address": "Hello street 7\nG11, E-10, Islamabad, Pakistan",
+        "customizeDescription": " 1 Chicken Burgers,\n",
+        "delivery_time": "Accepted, 15 min",
+        "dishCategory": "Deals of the day",
+        "dishName": "",
+        "orderTime": "10:25 AM",
+        "phoneNumber": "+923118536999",
+        "specialInstructions": "",
+        "totalPrice": 400,
+        "username": "Test user"
+      },
+      "1539080836427": {
+        "address": "Hello street 7\nG11, E-10, Islamabad, Pakistan",
+        "customizeDescription": " 1 Chicken Burgers, Add-on (1 Fries,1 Crunch Wings),\n 1 Regular, Add-on (1 Hot Shot),\n",
+        "delivery_time": "Accepted, 15 min",
+        "dishCategory": "Deals of the day",
+        "dishName": "",
+        "orderTime": "10:27 AM",
+        "phoneNumber": "+923118536999",
+        "specialInstructions": "",
+        "totalPrice": 770,
+        "username": "Test user"
+      },
+      "1539080888298": {
+        "address": "Hello street 7\nG11, E-10, Islamabad, Pakistan",
+        "customizeDescription": " 1 Tower Burger, Add-on (1 Hot Shot), Make a meal (1 Fries & Regular Drink),\n",
+        "delivery_time": "Accepted, 15 min",
+        "dishCategory": "Zinger Burger",
+        "dishName": "",
+        "orderTime": "10:28 AM",
+        "phoneNumber": "+923118536999",
+        "specialInstructions": "",
+        "totalPrice": 520,
+        "username": "Test user"
+      },
+      "1539081129330": {
+        "address": "",
+        "customizeDescription": " 9 Triple Chicken Burger, Make a meal (2 Fries & Regular Drink),\n",
+        "delivery_time": "Accepted, 15 min",
+        "dishCategory": "Chicken Burger",
+        "dishName": "",
+        "orderTime": "10:32 AM",
+        "phoneNumber": "+923118536999",
+        "specialInstructions": "",
+        "totalPrice": 3440,
+        "username": "Test user"
+      }
+    },
+    "10_10_2018": {
+      "-LORTqWVhn6VutQCOm9P": {
+        "address": "Take Away",
+        "customizeDescription": " Deal 5 (4), Coca Cola (0)",
+        "delivery_time": "Accepted, 45 min",
+        "dishCategory": " Burger_Deals",
+        "dishName": " Deal 5 (4)",
+        "orderTime": "10:38 AM",
+        "phoneNumber": "take_home",
+        "specialInstructions": "no instructions",
+        "totalPrice": 5800,
+        "username": "take_home"
+      },
+      "1539148664188": {
+        "address": "hello street 21 g11 markaz, G-11",
+        "customizeDescription": " 1 Zinger Burgers,\n",
+        "delivery_time": "Rejected, Rider is not available",
+        "dishCategory": "Deals of the day",
+        "dishName": "",
+        "orderTime": "10:17 AM",
+        "phoneNumber": "+9231123282444",
+        "specialInstructions": "",
+        "totalPrice": 450,
+        "username": " gal"
+      },
+      "1539148845375": {
+        "address": "hello street 21 g11 markaz, G-11, Islamabad, Pakistan",
+        "customizeDescription": " 3 Zinger Burgers,\n",
+        "delivery_time": "Accepted, 15 min",
+        "dishCategory": "Deals of the day",
+        "dishName": "",
+        "orderTime": "10:20 AM",
+        "phoneNumber": "+9231123282444",
+        "specialInstructions": "",
+        "totalPrice": 1350,
+        "username": " gal"
+      },
+      "1539166009649": {
+        "address": "Hahahaha bsbsbsbsbs bsb, F-10",
+        "customizeDescription": " 1 Chicken Burgers,\n",
+        "delivery_time": "Rejected, Product is not available",
+        "dishCategory": "Deals of the day",
+        "dishName": "",
+        "orderTime": "03:06 PM",
+        "phoneNumber": "+923470766786",
+        "specialInstructions": "",
+        "totalPrice": 400,
+        "username": "Bdbdhdjdb "
+      },
+      "1539166465337": {
+        "address": "Table No. 2",
+        "customizeDescription": " 1 Premium Chicken, Make a meal (1 Fries & Regular Drink),\n 1 Fried Chicken, Add-on (5 Fries),\n 1 Kebab Pizza, Drink Flavour (7up)\n 1 Deal 2, Pizza Deal Flavors (Mighty Super Pizza,Smoke BBQ,Cheese Lovers) Drink Flavour (Coca Cola)\n 7 Chicken Burgers, Add-on (1 Fries,1 Crunch Wings,12 Hot Shot),\n",
+        "delivery_time": "Rejected, Rider is not available",
+        "dishCategory": "Chicken Burger",
+        "dishName": "",
+        "orderTime": "03:14 PM",
+        "phoneNumber": "",
+        "specialInstructions": "",
+        "totalPrice": 8580,
+        "username": "bus"
+      }
+    },
+    "11_10_2018": {
+      "1539158094121": {
+        "address": "Table No. 1",
+        "customizeDescription": " 1 Deal 2, Pizza Deal Flavors (Chicken Tikka,Mighty Super Pizza,Chicken Tikka) Drink Flavour (7up)\n",
+        "delivery_time": "Accepted, 15 min",
+        "dishCategory": "Pizza Deals",
+        "dishName": "",
+        "orderTime": "12:54 PM",
+        "phoneNumber": "",
+        "specialInstructions": "",
+        "totalPrice": 2400,
+        "username": "test1"
+      }
+    }
+  },
+  "MakeAMeal": {
+    "makeOn0": {
+      "isCheck": false,
+      "itemName": "Fries & Regular Drink",
+      "price": 100,
+      "quantity": 0
+    }
+  },
+  "Orders": {
+    "accepted": {
+      "1539148845375": {
+        "address": "hello street 21 g11 markaz, G-11, Islamabad, Pakistan",
+        "customizeDescription": " 3 Zinger Burgers,\n",
+        "delivery_time": "15 min",
+        "dishCategory": "Deals of the day",
+        "dishName": "",
+        "orderTime": "1539148845375",
+        "phoneNumber": "+9231123282444",
+        "specialInstructions": "",
+        "status": "Ready",
+        "totalPrice": 1350,
+        "username": " gal"
+      }
+    },
+    "accepted_TakeAway": {
+      "1539067338128": {
+        "address": "",
+        "collectingOrder": "45 mint",
+        "customizeDescription": " 1 Zinger Burgers,\n",
+        "delivery_time": "15 min",
+        "dishCategory": "Deals of the day",
+        "dishName": "",
+        "orderTime": "1539067338128",
+        "phoneNumber": "+923118536999",
+        "specialInstructions": "",
+        "status": "Ready",
+        "totalPrice": 450,
+        "username": "Test user"
+      },
+      "1539067600014": {
+        "address": "",
+        "collectingOrder": "45 mint",
+        "customizeDescription": " 1 Chicken Burgers,\n",
+        "delivery_time": "15 min",
+        "dishCategory": "Deals of the day",
+        "dishName": "",
+        "orderTime": "1539067600014",
+        "phoneNumber": "+923118536999",
+        "specialInstructions": "",
+        "status": "Ready",
+        "totalPrice": 400,
+        "username": "Test user"
+      },
+      "1539071828636": {
+        "address": "",
+        "collectingOrder": "2 hour",
+        "customizeDescription": " 6 Deal 4, Add-on (1 Fries,1 Hot Shot,1 Crunch Wings), Pizza Deal Flavors (Chicken Kebab) Drink Flavour (7up)\n",
+        "delivery_time": "15 min",
+        "dishCategory": "Burger Deals",
+        "dishName": "",
+        "orderTime": "1539071828636",
+        "phoneNumber": "+923006088706",
+        "specialInstructions": "",
+        "status": "Ready",
+        "totalPrice": 5780,
+        "username": "Shoiab Khan"
+      },
+      "1539077684403": {
+        "address": "",
+        "collectingOrder": "45 mint",
+        "customizeDescription": " 1 New Arrival, Pizza Deal Flavors (Chicken Tikka) Drink Flavour (Fanta)\n",
+        "delivery_time": "15 min",
+        "dishCategory": "New Arrival",
+        "dishName": "",
+        "orderTime": "1539077684403",
+        "phoneNumber": "+923112528299",
+        "specialInstructions": "",
+        "status": "Ready",
+        "totalPrice": 330,
+        "username": "NJe"
+      },
+      "1539078884323": {
+        "address": "",
+        "collectingOrder": "45 min",
+        "customizeDescription": " Double Tower (1), Double Tower (2), Coca Cola (1), Coca Cola (1)",
+        "delivery_time": "45 min",
+        "dishCategory": " Zinger_Burger, Zinger_Burger",
+        "dishName": " Double Tower (1), Double Tower (2)",
+        "orderTime": "1539078884323",
+        "phoneNumber": "take_home",
+        "specialInstructions": "no instructions",
+        "status": "Ready",
+        "totalPrice": 1280,
+        "username": "take_home"
+      },
+      "1539081129330": {
+        "address": "",
+        "collectingOrder": "45 mint",
+        "customizeDescription": " 9 Triple Chicken Burger, Make a meal (2 Fries & Regular Drink),\n",
+        "delivery_time": "15 min",
+        "dishCategory": "Chicken Burger",
+        "dishName": "",
+        "orderTime": "1539081129330",
+        "phoneNumber": "+923118536999",
+        "specialInstructions": "",
+        "status": "Ready",
+        "totalPrice": 3440,
+        "username": "Test user"
+      },
+      "1539082619263": {
+        "address": "",
+        "collectingOrder": "45 min",
+        "customizeDescription": " Veggie (1), Fanta (1)",
+        "delivery_time": "45 min",
+        "dishCategory": " Pizza",
+        "dishName": " Veggie (1)",
+        "orderTime": "1539082619263",
+        "phoneNumber": "take_home",
+        "specialInstructions": "no instructions",
+        "status": "Ready",
+        "totalPrice": 340,
+        "username": "take_home"
+      },
+      "1539082701175": {
+        "address": "",
+        "collectingOrder": "45 min",
+        "customizeDescription": " New Arrival (1), Veggie (5), 7up (1), Fanta (5)",
+        "delivery_time": "45 min",
+        "dishCategory": " New_Arrival, Pizza",
+        "dishName": " New Arrival (1), Veggie (5)",
+        "orderTime": "1539082701175",
+        "phoneNumber": "take_home",
+        "specialInstructions": "no instructions",
+        "status": "Ready",
+        "totalPrice": 1770,
+        "username": "take_home"
+      },
+      "1539149883666": {
+        "address": "",
+        "collectingOrder": "45 min",
+        "customizeDescription": " Deal 5 (4), Coca Cola (0)",
+        "delivery_time": "45 min",
+        "dishCategory": " Burger_Deals",
+        "dishName": " Deal 5 (4)",
+        "orderTime": "1539149883666",
+        "phoneNumber": "take_home",
+        "specialInstructions": "no instructions",
+        "status": "Ready",
+        "totalPrice": 5800,
+        "username": "take_home"
+      }
+    },
+    "acceptedorders": {
+      "03112829375": {
+        "1539083139155": {
+          "address": "awe street 4 pktsn, F-10, Islamabad, Pakistan",
+          "customizeDescription": " Chicken Burger (1), Chicken Burger (1), Chicken Burger (1), Chicken Burger (1), Chicken Burger (1), Chicken Burger (1), Chicken Burger (1), Chicken Burger (1), Chicken Burger (1), Chicken Burger (1), Fanta (1), Fanta (1), Fanta (1), Fanta (1), Fanta (1), Fanta (1), Fanta (1), Fanta (1), Fanta (1), Fanta (1)",
+          "delivery_time": "2",
+          "dishCategory": " Chicken_Burger, Chicken_Burger, Chicken_Burger, Chicken_Burger, Chicken_Burger, Chicken_Burger, Chicken_Burger, Chicken_Burger, Chicken_Burger, Chicken_Burger",
+          "dishName": " Chicken Burger (1), Chicken Burger (1), Chicken Burger (1), Chicken Burger (1), Chicken Burger (1), Chicken Burger (1), Chicken Burger (1), Chicken Burger (1), Chicken Burger (1), Chicken Burger (1)",
+          "orderTime": "1539083139155",
+          "phoneNumber": "03112536852",
+          "specialInstructions": "no instructions",
+          "totalPrice": 2400,
+          "username": "juy"
+        }
+      }
+    },
+    "diningTable": {
+      "1539067621391": {
+        "address": "Table No. 1",
+        "customizeDescription": " 1 Tower Burgers, Drink Flavour (7up,Fanta)\n",
+        "delivery_time": "15 min",
+        "dishCategory": "Deals of the day",
+        "dishName": "",
+        "orderTime": "1539067621391",
+        "phoneNumber": "",
+        "specialInstructions": "",
+        "status": "Ready",
+        "totalPrice": 600,
+        "username": "Test user"
+      },
+      "1539068940563": {
+        "address": "Table No. 1",
+        "customizeDescription": " 0 Smoke BBQ, Pizza Type (Personal)\n",
+        "delivery_time": "1 hr",
+        "dishCategory": "Pizza",
+        "dishName": "",
+        "orderTime": "1539068940563",
+        "phoneNumber": "",
+        "specialInstructions": "",
+        "status": "Ready",
+        "totalPrice": 300,
+        "username": "Test user"
+      },
+      "1539077692842": {
+        "address": "Table No. 1",
+        "customizeDescription": " 1 Chicken Burgers, Add-on (1 Fries,1 Hot Shot,1 Crunch Wings),\n",
+        "delivery_time": "15 min",
+        "dishCategory": "Deals of the day",
+        "dishName": "",
+        "orderTime": "1539077692842",
+        "phoneNumber": "",
+        "specialInstructions": "",
+        "status": "Ready",
+        "totalPrice": 730,
+        "username": "jawaria"
+      }
+    },
+    "kitchen": {
+      "1539158094121": {
+        "address": "Table No. 1",
+        "customizeDescription": " 1 Deal 2, Pizza Deal Flavors (Chicken Tikka,Mighty Super Pizza,Chicken Tikka) Drink Flavour (7up)\n",
+        "delivery_time": "15 min",
+        "dishCategory": "Pizza Deals",
+        "dishName": "",
+        "orderTime": "1539158094121",
+        "phoneNumber": "",
+        "specialInstructions": "",
+        "status": "Accepted",
+        "totalPrice": 2400,
+        "username": "test1"
+      },
+      "1539234011226": {
+        "address": "",
+        "collectingOrder": "45 min",
+        "customizeDescription": "Deal 4 (4), Crunch Wings (5),Coca Cola Regular Drink (Rs. 40) (5), 7up Regular Drink (Rs. 40) (5)",
+        "delivery_time": "45 min",
+        "dishCategory": " Burger_Deals, Fried_Chicken",
+        "dishName": "Deal 4 (4), Crunch Wings (5)",
+        "orderTime": "1539234011226",
+        "phoneNumber": "take_home",
+        "specialInstructions": "no instructions",
+        "status": "Accepted",
+        "totalPrice": 4700,
+        "username": "take_home"
+      },
+      "1539235926916": {
+        "address": "",
+        "collectingOrder": "45 min",
+        "customizeDescription": "Deal 4 (5), Grilled Wings (4),Coca Cola Regular Drink (Rs. 40) (5), 7up Regular Drink (Rs. 40) (5)",
+        "delivery_time": "45 min",
+        "dishCategory": " Burger_Deals, Grilled_Chicken",
+        "dishName": "Deal 4 (5), Grilled Wings (4)",
+        "orderTime": "1539235926916",
+        "phoneNumber": "take_home",
+        "specialInstructions": "no instructions",
+        "status": "Accepted",
+        "totalPrice": 5460,
+        "username": "take_home"
+      },
+      "1539236163102": {
+        "address": "Al Rehmat Plaza, G-11, Islamabad, Pakistan",
+        "collectingOrder": "",
+        "customizeDescription": "Deal 4 (5), Hotshots Chicken (6),Coca Cola Regular Drink (Rs. 40) (6), Fanta Regular Drink (Rs. 40) (6)",
+        "delivery_time": "45 min",
+        "dishCategory": " Burger_Deals, Fried_Chicken",
+        "dishName": "Deal 4 (5), Hotshots Chicken (6)",
+        "orderTime": "1539236163102",
+        "phoneNumber": "03454080247",
+        "specialInstructions": "no instructions",
+        "status": "Accepted",
+        "totalPrice": 5520,
+        "username": "Hassan"
+      },
+      "1539236476577": {
+        "address": "",
+        "collectingOrder": "45 min",
+        "customizeDescription": "Deal 4 (4), Smoke BBQ (5),Coca Cola Regular Drink (Rs. 40) (3), Fanta 1.5 Ltr (Rs. 120) (4)",
+        "delivery_time": "45 min",
+        "dishCategory": " Burger_Deals, Pizza",
+        "dishName": "Deal 4 (4), Smoke BBQ (5)",
+        "orderTime": "1539236476577",
+        "phoneNumber": "take_home",
+        "specialInstructions": "no instructions",
+        "status": "Accepted",
+        "totalPrice": 5410,
+        "username": "take_home"
+      },
+      "1539236607008": {
+        "address": "al rre, H-9, Islamabad, Pakistan",
+        "collectingOrder": "",
+        "customizeDescription": "Deal 7 (7), Mighty Super Pizza (6),Coca Cola Regular Drink (Rs. 40) (6), 7up 1.5 Ltr (Rs. 120) (6)",
+        "delivery_time": "45 min",
+        "dishCategory": " Burger_Deals, Pizza",
+        "dishName": "Deal 7 (7), Mighty Super Pizza (6)",
+        "orderTime": "1539236607008",
+        "phoneNumber": "03454080247",
+        "specialInstructions": "no instructions",
+        "status": "Accepted",
+        "totalPrice": 12550,
+        "username": "hassan"
+      },
+      "1539241049753": {
+        "address": "",
+        "collectingOrder": "45 min",
+        "customizeDescription": "Grilled Wings (1),Fanta 1.5 Ltr (Rs. 120) (1)",
+        "delivery_time": "45 min",
+        "dishCategory": " Grilled_Chicken",
+        "dishName": "Grilled Wings (1)",
+        "orderTime": "1539241049753",
+        "phoneNumber": "take_home",
+        "specialInstructions": "no instructions",
+        "status": "Accepted",
+        "totalPrice": 250,
+        "username": "take_home"
+      }
+    },
+    "new": {
+      "1539152606706": {
+        "address": "hello street 21 g11 markaz",
+        "customizeDescription": " 5 Fried Chicken, Add-on (1 Fries,4 Hot Shot), Make a meal (3 Fries & Regular Drink),\n 1 Deal 5, Drink Flavour (Fanta)\n 3 Zinger Burgers,\n",
+        "delivery_time": "Not Applicable",
+        "dishCategory": "Fried Chicken",
+        "dishName": "",
+        "imagePath": "",
+        "orderTime": "1539152606706",
+        "phoneNumber": "+9231123282444",
+        "sector": "G-11",
+        "specialInstructions": "",
+        "status": "Pending",
+        "totalPrice": 4360,
+        "username": " gal"
+      },
+      "1539158189051": {
+        "address": "Street 5 g11 5 hoy\n",
+        "customizeDescription": " 1 Deal 2, Pizza Deal Flavors (Chicken Tikka,Chicken Tikka,Chicken Tikka) Drink Flavour (7up)\n",
+        "delivery_time": "Not Applicable",
+        "dishCategory": "Pizza Deals",
+        "dishName": "",
+        "imagePath": "",
+        "orderTime": "1539158189051",
+        "phoneNumber": "+923552856366",
+        "sector": "F-8",
+        "specialInstructions": "",
+        "status": "Pending",
+        "totalPrice": 2400,
+        "username": "Test1"
+      },
+      "1539162747232": {
+        "address": "Table No. 5",
+        "collectingOrder": "",
+        "customizeDescription": " 1 Smoke BBQ, Pizza Type (Medium) Add-on (1 Hot Shot,1 Crunch Wings),\n 1 New Arrival, Pizza Deal Flavors (Chicken Kebab,Mighty Super Pizza,Chicken Tikka) Drink Flavour (7up)\n",
+        "delivery_time": "Not Applicable",
+        "dishCategory": "Pizza",
+        "dishName": "",
+        "imagePath": "",
+        "orderTime": "1539162747232",
+        "phoneNumber": "",
+        "sector": "",
+        "specialInstructions": "",
+        "status": "Pending",
+        "totalPrice": 1160,
+        "username": "test1"
+      }
+    }
+  },
+  "Pizza_flavours": [
+    "Select flavour",
+    "Chicken Fajita",
+    "Chicken Grilled",
+    "Chicken Kebab",
+    "Chicken Tikka",
+    "Mighty Super Pizza",
+    "Smoke BBQ",
+    "Veggie",
+    "Cheese Lovers"
+  ],
+  "Product_Details": {
+    "Burger_Deals": {
+      "Deal_3": {
+        "description": "2 zinger, 2 Chicken Pc, 2 Cold Drinks, Fries",
+        "drink_qty": 2,
+        "image_uri": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FBurger_Deals_Exclusive%2FDeal_3.png?alt=media&token=2a7280cb-4127-4002-ac62-796c94bf3855",
+        "isPizzaDeal": false,
+        "name_of_product": "Deal 3",
+        "price_of_product": "800",
+        "product_status": "no"
+      },
+      "Deal_4": {
+        "description": "2 zinger, 8 inch pizza, Fries, Drink (1.5 ltr)",
+        "drink_qty": 1,
+        "image_uri": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FBurger_Deals_Exclusive%2FDeal_4.png?alt=media&token=0869176b-5e55-49fb-b5b8-087176483edf",
+        "isPizzaDeal": true,
+        "name_of_product": "Deal 4",
+        "price_of_product": "900",
+        "product_status": "yes",
+        "quantity": 1
+      },
+      "Deal_5": {
+        "description": "4 Zinger, 4 Chicken Pc, Drink (1.5 ltr)",
+        "drink_qty": 1,
+        "image_uri": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FBurger_Deals_Exclusive%2FExclusive_Deal.png?alt=media&token=d7974b1e-89e4-4137-a9c3-d099c1e234f3",
+        "isPizzaDeal": false,
+        "name_of_product": "Deal 5",
+        "price_of_product": "1450",
+        "product_status": "yes"
+      },
+      "Deal_6": {
+        "description": "4 Tower Burgers, Drink (1.5 ltr)",
+        "drink_qty": 1,
+        "image_uri": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FBurger_Deals_Exclusive%2FDeal_6.png?alt=media&token=a8affb81-bd54-4a6a-a0ad-064b4eeb32d4",
+        "isPizzaDeal": false,
+        "name_of_product": "Deal 6",
+        "price_of_product": "1150",
+        "product_status": "yes"
+      },
+      "Deal_7": {
+        "description": "4 Mighty Burgers, Drink (1.5 ltr)",
+        "drink_qty": 1,
+        "image_uri": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FBurger_Deals_Exclusive%2FDeal_7.png?alt=media&token=8813e102-e07a-426a-af84-95f09bf1da9f",
+        "isPizzaDeal": false,
+        "name_of_product": "Deal 7",
+        "price_of_product": "1450",
+        "product_status": "yes"
+      }
+    },
+    "Buy_One_Get_One": {
+      "Chunky_Crunch": {
+        "image_uri": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FZinger_Burgers%2FZinger%20Burger.png?alt=media&token=674acf7a-eb57-4eb1-8422-08365043b1a6",
+        "isMakeAMeal": true,
+        "name_of_product": "Chunky Crunch",
+        "price_of_product": "250",
+        "priority": 0,
+        "product_status": "yes"
+      },
+
+      "Double_Tower_Crunch": {
+        "image_uri": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FZinger_Burgers%2FDouble%20Tower.png?alt=media&token=69ac706c-7740-4d36-8695-8dccf6b51b12",
+        "isMakeAMeal": true,
+        "name_of_product": "Double Tower Crunch",
+        "price_of_product": "400",
+        "priority": 1,
+        "product_status": "yes"
+      },
+
+      "Mighty_Crunch": {
+        "image_uri": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FZinger_Burgers%2FMighty%20Burger.png?alt=media&token=5e70f342-b44a-476b-950c-c7a83d5fa14f",
+        "isMakeAMeal": true,
+        "name_of_product": "Mighty Crunch",
+        "price_of_product": "420",
+        "priority": 2,
+        "product_status": "yes"
+      },
+
+      "Tower_Crunch": {
+        "image_uri": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FZinger_Burgers%2FTower%20Burger.png?alt=media&token=93ea1707-062a-4769-9aef-9d03e17dc546",
+        "isMakeAMeal": true,
+        "name_of_product": "Tower Crunch",
+        "price_of_product": "330",
+        "priority": 3,
+        "product_status": "yes"
+      },
+      "Classic_Chicken": {
+        "image_uri": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FChicken_burgers%2FChicken%20Burger.png?alt=media&token=7b616295-aa22-44b4-b372-bc4931a8c811",
+        "isMakeAMeal": true,
+        "name_of_product": "Classic Chicken",
+        "price_of_product": "200",
+        "priority": 4,
+        "product_status": "yes"
+      },
+      "Doubler_Chicken": {
+        "image_uri": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FChicken_burgers%2FDouble%20Chicken%20Burger.png?alt=media&token=b135f86f-c089-4763-b07a-9aa8b0d1f1d2",
+        "isMakeAMeal": true,
+        "name_of_product": "Doubler Chicken",
+        "price_of_product": "280",
+        "priority": 5,
+        "product_status": "yes"
+      },
+      "Grilled_Chicken": {
+        "image_uri": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FChicken_burgers%2FGrilled%20Burger.png?alt=media&token=534b7d87-8627-4e68-a66a-0883db07c1b2",
+        "isMakeAMeal": true,
+        "name_of_product": "Grilled Chicken",
+        "price_of_product": "280",
+        "priority": 6,
+        "product_status": "yes"
+      },
+      "Premium_Chicken": {
+        "image_uri": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FChicken_burgers%2FTripple%20Chicken%20Burger.png?alt=media&token=de866b43-83ce-4f84-a2c2-b3d2b2017db6",
+        "isMakeAMeal": true,
+        "name_of_product": "Premium Chicken",
+        "price_of_product": "360",
+        "priority": 7,
+        "product_status": "yes"
+      },
+
+      "Cheese_Lovers": {
+        "image_uri": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FPizza%2F1%20(Cheese-Lovers).png?alt=media&token=4a914eef-6f39-4dba-9cb7-22a556def59c",
+        "large_price": "950",
+        "medium_price": "650",
+        "name_of_product": "Cheese Lovers",
+        "price_of_product": "250",
+        "product_status": "no",
+        "small_price": "350",
+        "priority": 8
+      },
+      "Chicken_Fajita": {
+        "image_uri": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FPizza%2F5-(Fajita).png?alt=media&token=51180c5d-64b8-4958-a9d8-e226026db4a8",
+        "large_price": "950",
+        "medium_price": "650",
+        "name_of_product": "Chicken Fajita",
+        "price_of_product": "250",
+        "product_status": "no",
+        "small_price": "350",
+        "priority": 9
+      },
+      "Chicken_Grilled": {
+        "image_uri": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FPizza%2F6-(Grilled).png?alt=media&token=6325293b-06c2-469a-aded-21a3ff677632",
+        "large_price": "950",
+        "medium_price": "650",
+        "name_of_product": "Chicken Grilled",
+        "price_of_product": "250",
+        "product_status": "no",
+        "small_price": "350",
+        "priority": 10
+      },
+      "Chicken_Kebab": {
+        "image_uri": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FPizza%2F3-(Kebab-Pizza-).png?alt=media&token=03a4fcd7-75de-418a-9ef9-4f6527d3e160",
+        "large_price": "950",
+        "medium_price": "650",
+        "name_of_product": "Chicken Kebab",
+        "price_of_product": "250",
+        "product_status": "no",
+        "small_price": "350",
+        "priority": 11
+      },
+      "Chicken_Tikka": {
+        "image_uri": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FPizza%2F4-(Tikka).png?alt=media&token=5aa49a12-2160-4c12-a193-21f77eeec008",
+        "large_price": "950",
+        "medium_price": "650",
+        "name_of_product": "Chicken Tikka",
+        "price_of_product": "250",
+        "product_status": "no",
+        "small_price": "350",
+        "priority": 12
+      },
+      "Mighty_Super_Pizza": {
+        "image_uri": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FPizza%2F7-(Mighty-Super).png?alt=media&token=da908c25-2fdf-4592-ac07-4770e1e9ec00",
+        "large_price": "950",
+        "medium_price": "650",
+        "name_of_product": "Mighty Super Pizza",
+        "price_of_product": "250",
+        "product_status": "yes",
+        "small_price": "350",
+        "priority": 13
+      },
+      "Smoke_BBQ": {
+        "image_uri": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FPizza%2F2-(Smoke-BBQ).png?alt=media&token=44e48d76-ab21-4cd4-aefc-dc6d9190eb61",
+        "large_price": "950",
+        "medium_price": "650",
+        "name_of_product": "Smoke BBQ",
+        "price_of_product": "250",
+        "product_status": "yes",
+        "small_price": "350",
+        "priority": 14
+      },
+      "Veggie": {
+        "image_uri": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FPizza%2F8-(Veggie).png?alt=media&token=98da2063-c7c3-4ffb-9563-4e034cf58701",
+        "large_price": "950",
+        "medium_price": "650",
+        "name_of_product": "Veggie",
+        "price_of_product": "250",
+        "product_status": "yes",
+        "small_price": "350",
+        "priority": 15
+      }
+    },
+    "Chicken_Burger": {
+      "Classic_Chicken": {
+        "image_uri": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FChicken_burgers%2FChicken%20Burger.png?alt=media&token=7b616295-aa22-44b4-b372-bc4931a8c811",
+        "isMakeAMeal": true,
+        "name_of_product": "Classic Chicken",
+        "price_of_product": "200",
+        "product_status": "yes"
+      },
+      "Doubler_Chicken": {
+        "image_uri": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FChicken_burgers%2FDouble%20Chicken%20Burger.png?alt=media&token=b135f86f-c089-4763-b07a-9aa8b0d1f1d2",
+        "isMakeAMeal": true,
+        "name_of_product": "Doubler Chicken",
+        "price_of_product": "280",
+        "product_status": "yes"
+      },
+      "Grilled_Chicken": {
+        "image_uri": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FChicken_burgers%2FGrilled%20Burger.png?alt=media&token=534b7d87-8627-4e68-a66a-0883db07c1b2",
+        "isMakeAMeal": true,
+        "name_of_product": "Grilled Chicken",
+        "price_of_product": "280",
+        "product_status": "yes"
+      },
+      "Premium_Chicken": {
+        "image_uri": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FChicken_burgers%2FTripple%20Chicken%20Burger.png?alt=media&token=de866b43-83ce-4f84-a2c2-b3d2b2017db6",
+        "isMakeAMeal": true,
+        "name_of_product": "Premium Chicken",
+        "price_of_product": "360",
+        "product_status": "yes"
+      }
+    },
+    "Cold_drinks": {
+      "Large": {
+        "description": "1 Drink (1.5 Ltr)",
+        "image_uri": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FDrinks%2FLargeDrink.png?alt=media&token=28d3b124-3fda-4517-a7d7-89172f1d960e",
+        "name_of_product": "Large",
+        "price_of_product": "110",
+        "product_status": "yes"
+      },
+      "Regular": {
+        "description": "1 Regular Drink",
+        "image_uri": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FDrinks%2FRegularDrink.png?alt=media&token=443a05b1-73e6-47f5-a586-9a85de3fc7b9",
+        "name_of_product": "Regular",
+        "price_of_product": "40",
+        "product_status": "yes"
+      }
+    },
+    "Crunch_Burgers": {
+      "Chunky_Crunch": {
+        "image_uri": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FZinger_Burgers%2FZinger%20Burger.png?alt=media&token=674acf7a-eb57-4eb1-8422-08365043b1a6",
+        "isMakeAMeal": true,
+        "name_of_product": "Chunky Crunch",
+        "price_of_product": "250",
+        "product_status": "yes"
+      },
+      "Double_Tower_Crunch": {
+        "image_uri": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FZinger_Burgers%2FDouble%20Tower.png?alt=media&token=69ac706c-7740-4d36-8695-8dccf6b51b12",
+        "isMakeAMeal": true,
+        "name_of_product": "Double Tower Crunch",
+        "price_of_product": "400",
+        "product_status": "yes"
+      },
+      "Mighty_Crunch": {
+        "image_uri": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FZinger_Burgers%2FMighty%20Burger.png?alt=media&token=5e70f342-b44a-476b-950c-c7a83d5fa14f",
+        "isMakeAMeal": true,
+        "name_of_product": "Mighty Crunch",
+        "price_of_product": "420",
+        "product_status": "yes"
+      },
+      "Tower_Crunch": {
+        "image_uri": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FZinger_Burgers%2FTower%20Burger.png?alt=media&token=93ea1707-062a-4769-9aef-9d03e17dc546",
+        "isMakeAMeal": true,
+        "name_of_product": "Tower Crunch",
+        "price_of_product": "330",
+        "product_status": "no"
+      }
+    },
+    "Deals_of_the_day": {
+      "Deal_1": {
+        "description": "02 Chicken Burgers",
+        "food_category": "Deals of the day",
+        "image_uri": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FDeals_of_the_day%2FDeal-1.jpg?alt=media&token=6cdfdedd-7f30-4e4c-9eae-d950a6b63e3c",
+        "name_of_product": "Chicken Burgers",
+        "price_of_product": "350",
+        "product_status": "yes"
+      },
+      "Deal_2": {
+        "description": "02 Zinger Burgers",
+        "food_category": "Deals of the day",
+        "image_uri": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FDeals_of_the_day%2FDeal-2.jpg?alt=media&token=e4de5f0b-8114-44fe-b1d6-f5783e424b11",
+        "name_of_product": "Zinger Burgers",
+        "price_of_product": "450",
+        "product_status": "yes"
+      },
+      "Deal_3": {
+        "description": "02 Tower Burgers & 02 Regular Drinks",
+        "drink_qty": 2,
+        "food_category": "Deals of the day",
+        "image_uri": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FDeals_of_the_day%2FDeal-3.jpg?alt=media&token=7870426d-fcbd-4ac0-837d-e06c3ea1796f",
+        "name_of_product": "Tower Burgers",
+        "price_of_product": "600",
+        "product_status": "yes"
+      },
+      "Deal_4": {
+        "description": "1 Medium Kebab Pizza,1 Cold drink (1.5 Ltr) & 2 Roll Parathas free",
+        "drink_qty": 1,
+        "food_category": "Deals of the day",
+        "image_uri": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FDeals_of_the_day%2FDeal-4.jpg?alt=media&token=11657e09-6377-4768-9c05-4bfc4a457bc2",
+        "name_of_product": "Kebab Pizza",
+        "price_of_product": "1000",
+        "product_status": "yes",
+        "quantity": 1
+      }
+    },
+    "Fried_Chicken": {
+      "Crunch_Wings": {
+        "description": "Five pieces",
+        "image_uri": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FFried_Chicken%2FCrunch%20Wings.png?alt=media&token=5204b85f-f202-40ec-b4b3-949e16bfebd1",
+        "name_of_product": "Crunch Wings",
+        "price_of_product": "140",
+        "product_status": "yes"
+      },
+      "Fried_Chicken": {
+        "description": "One piece",
+        "image_uri": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FFried_Chicken%2FFried%20Chicken.png?alt=media&token=8586e490-737b-4305-a97f-eed0d33e8a85",
+        "name_of_product": "Fried Chicken",
+        "price_of_product": "150",
+        "product_status": "yes"
+      },
+      "Hotshots_Chicken": {
+        "description": "Five piece",
+        "image_uri": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FFried_Chicken%2FHotshots.png?alt=media&token=0da5f9d6-4af4-41ad-bc4d-91c019751fcf",
+        "name_of_product": "Hotshots Chicken",
+        "price_of_product": "90",
+        "product_status": "yes"
+      },
+      "Nuggets": {
+        "description": "Five Piece",
+        "image_uri": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FFried_Chicken%2FNuggets.png?alt=media&token=d6b64d04-3524-4273-9905-02bbb07ea866",
+        "name_of_product": "Nuggets",
+        "price_of_product": "150",
+        "product_status": "yes"
+      }
+    },
+    "Grilled_Chicken": {
+      "Grilled_Wings": {
+        "description": "Five pieces",
+        "image_uri": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FGrilled_Chicken%2FGrilled%20Wings.png?alt=media&token=45a2217c-1abd-4e3a-9a35-18e25bf5749a",
+        "name_of_product": "Grilled Wings",
+        "price_of_product": "140",
+        "product_status": "yes"
+      }
+    },
+    "New_Arrival": {
+      "New_Arrival": {
+        "description": "1 Pizza Paratha, 1 Regular Drink, Fries",
+        "drink_qty": 1,
+        "image_uri": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FNew_Arrival%2FPizza%20Paratha.png?alt=media&token=e424f03f-06de-402e-a55c-a3c8ab1d845b",
+        "isMakeAMeal": true,
+        "isPizzaDeal": true,
+        "name_of_product": "New Arrival",
+        "price_of_product": "280",
+        "product_status": "yes"
+      }
+    },
+    "Pizza": {
+      "Cheese_Lovers": {
+        "image_uri": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FPizza%2F1%20(Cheese-Lovers).png?alt=media&token=4a914eef-6f39-4dba-9cb7-22a556def59c",
+        "large_price": "950",
+        "medium_price": "650",
+        "name_of_product": "Cheese Lovers",
+        "price_of_product": "250",
+        "product_status": "no",
+        "small_price": "350"
+      },
+      "Chicken_Fajita": {
+        "image_uri": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FPizza%2F5-(Fajita).png?alt=media&token=51180c5d-64b8-4958-a9d8-e226026db4a8",
+        "large_price": "950",
+        "medium_price": "650",
+        "name_of_product": "Chicken Fajita",
+        "price_of_product": "250",
+        "product_status": "no",
+        "small_price": "350"
+      },
+      "Chicken_Grilled": {
+        "image_uri": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FPizza%2F6-(Grilled).png?alt=media&token=6325293b-06c2-469a-aded-21a3ff677632",
+        "large_price": "950",
+        "medium_price": "650",
+        "name_of_product": "Chicken Grilled",
+        "price_of_product": "250",
+        "product_status": "no",
+        "small_price": "350"
+      },
+      "Chicken_Kebab": {
+        "image_uri": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FPizza%2F3-(Kebab-Pizza-).png?alt=media&token=03a4fcd7-75de-418a-9ef9-4f6527d3e160",
+        "large_price": "950",
+        "medium_price": "650",
+        "name_of_product": "Chicken Kebab",
+        "price_of_product": "250",
+        "product_status": "no",
+        "small_price": "350"
+      },
+      "Chicken_Tikka": {
+        "image_uri": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FPizza%2F4-(Tikka).png?alt=media&token=5aa49a12-2160-4c12-a193-21f77eeec008",
+        "large_price": "950",
+        "medium_price": "650",
+        "name_of_product": "Chicken Tikka",
+        "price_of_product": "250",
+        "product_status": "no",
+        "small_price": "350"
+      },
+      "Mighty_Super_Pizza": {
+        "image_uri": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FPizza%2F7-(Mighty-Super).png?alt=media&token=da908c25-2fdf-4592-ac07-4770e1e9ec00",
+        "large_price": "950",
+        "medium_price": "650",
+        "name_of_product": "Mighty Super Pizza",
+        "price_of_product": "250",
+        "product_status": "yes",
+        "small_price": "350"
+      },
+      "Smoke_BBQ": {
+        "image_uri": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FPizza%2F2-(Smoke-BBQ).png?alt=media&token=44e48d76-ab21-4cd4-aefc-dc6d9190eb61",
+        "large_price": "950",
+        "medium_price": "650",
+        "name_of_product": "Smoke BBQ",
+        "price_of_product": "250",
+        "product_status": "yes",
+        "small_price": "350"
+      },
+      "Veggie": {
+        "image_uri": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FPizza%2F8-(Veggie).png?alt=media&token=98da2063-c7c3-4ffb-9563-4e034cf58701",
+        "large_price": "950",
+        "medium_price": "650",
+        "name_of_product": "Veggie",
+        "price_of_product": "250",
+        "product_status": "yes",
+        "small_price": "350"
+      }
+    },
+    "Pizza_Deals": {
+      "Deal_1": {
+        "description": "2 Medium Pizza, 1 Drink (1.5 Ltr)",
+        "drink_qty": 1,
+        "image_uri": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FPizza_Deals%2FPizzaDeal1.png?alt=media&token=dbbed4c0-bd93-42fe-b793-0ed17f3cf36c",
+        "isPizzaDeal": true,
+        "name_of_product": "Deal 1",
+        "price_of_product": "1100",
+        "product_status": "yes",
+        "quantity": 2
+      },
+      "Deal_2": {
+        "description": "3 Large Pizza, 1 Drink (1.5 Ltr)",
+        "drink_qty": 1,
+        "image_uri": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FPizza_Deals%2FPizzaDeal2.png?alt=media&token=2805b437-ff3b-43cd-bbda-7f62d1b3e563",
+        "isPizzaDeal": true,
+        "name_of_product": "Deal 2",
+        "price_of_product": "2400",
+        "product_status": "yes",
+        "quantity": 3
+      }
+    }
+  },
+  "Products": {
+    "others": {
+      "Burger_Deals": {
+        "image_uri": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu%2FBurger_Deals.png?alt=media&token=f924ad04-567b-4a21-90b7-e7567b91ba81",
+        "name_of_product": "Burger Deals",
+        "priority": 2,
+        "quantity_of_product": "5"
+      },
+      "Buy_One_Get_One": {
+        "image_uri": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu%2Fbgf.png?alt=media&token=5e39b79f-c935-4040-8b3c-a6cc8816285c",
+        "name_of_product": "Buy One Get One",
+        "priority": 0,
+        "quantity_of_product": "5"
+      },
+      "Chicken_Burger": {
+        "image_uri": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FChicken_burgers%2FChicken%20Burger.png?alt=media&token=7b616295-aa22-44b4-b372-bc4931a8c811",
+        "name_of_product": "Chicken Burger",
+        "priority": 4,
+        "quantity_of_product": "3"
+      },
+      "Crunch_Burgers": {
+        "image_uri": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FZinger_Burgers%2FZinger%20Burger.png?alt=media&token=674acf7a-eb57-4eb1-8422-08365043b1a6",
+        "name_of_product": "Crunch Burgers",
+        "priority": 3,
+        "quantity_of_product": "4"
+      },
+      "Drinks": {
+        "image_uri": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu%2FDrinks.png?alt=media&token=fe272cc4-1224-4670-84ea-e7ec80c372a0",
+        "name_of_product": "Cold drinks",
+        "priority": 8,
+        "quantity_of_product": "2"
+      },
+      "Fried_Chicken": {
+        "image_uri": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FFried_Chicken%2FFried%20Chicken.png?alt=media&token=8586e490-737b-4305-a97f-eed0d33e8a85",
+        "name_of_product": "Fried Chicken",
+        "priority": 7,
+        "quantity_of_product": "3"
+      },
+      "Grilled_Chicken": {
+        "image_uri": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FGrilled_Chicken%2FGrilled%20Wings.png?alt=media&token=45a2217c-1abd-4e3a-9a35-18e25bf5749a",
+        "name_of_product": "Grilled Chicken",
+        "priority": 6,
+        "quantity_of_product": "1"
+      },
+      "New_Arrival": {
+        "image_uri": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FNew_Arrival%2FNEW%20ARRIVAL.png?alt=media&token=0840b89c-b383-4ea0-aa06-bb9ee505b808",
+        "name_of_product": "New Arrival",
+        "priority": 1,
+        "quantity_of_product": "1"
+      },
+      "Pizza": {
+        "image_uri": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu%2FPizza.png?alt=media&token=cf7ebffc-6b07-4955-ae8e-8876a685429b",
+        "name_of_product": "Pizza",
+        "priority": 5,
+        "quantity_of_product": "8"
+      },
+      "Pizza_Deals": {
+        "image_uri": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu%2FPizza_Exclusive.png?alt=media&token=c26cf1df-a61e-413f-a667-ac2ad5108604",
+        "name_of_product": "Pizza Deals",
+        "priority": 9,
+        "quantity_of_product": "2"
+      }
+    }
+  },
+  "PromoCode": {
+    "added": {
+      "expiry": "22/9/2018",
+      "offer": 40,
+      "promoCode": 1234
+    }
+  },
+  "Restaurant_Status": "Closed",
+  "Riders": {
+    "03112545299": {
+      "contact": "03112545299",
+      "name": "test rider",
+      "status": "Available"
+    },
+    "03112829375": {
+      "contact": "03112829375",
+      "name": "hell boy",
+      "status": "Available"
+    },
+    "03454080247": {
+      "contact": "03454080247",
+      "name": "Hassan",
+      "status": "Available"
+    }
+  },
+  "Riders_History": {
+    "03112829375": {
+      "-LOMdJq8aELtH9I9l6CZ": {
+        "address": "Hello street 7\nG11, G-11",
+        "contact": "03112829375",
+        "date": "Tuesday, 09 October",
+        "distance": "0 kms",
+        "duration": "0 mins"
+      },
+      "-LONFc5jW9Fd8egGIS7e": {
+        "address": "Hello street 7\nG11, E-10",
+        "contact": "03112829375",
+        "date": "Tuesday, 09 October",
+        "distance": "0 kms",
+        "duration": "0 mins"
+      },
+      "-LONFivLoCidFENP3NvG": {
+        "address": "Hello street 7\nG11, H-11, Islamabad, Pakistan",
+        "contact": "03112829375",
+        "date": "Tuesday, 09 October",
+        "distance": "0 kms",
+        "duration": "0 mins"
+      },
+      "-LONFoyTHRUE7LgcUySX": {
+        "address": "Hello street 7\nG11, E-10, Islamabad, Pakistan",
+        "contact": "03112829375",
+        "date": "Tuesday, 09 October",
+        "distance": "0 kms",
+        "duration": "0 mins"
+      },
+      "-LONGAnEJMNfr3RGf69q": {
+        "address": "Hello street 7\nG11, E-10, Islamabad, Pakistan",
+        "contact": "03112829375",
+        "date": "Tuesday, 09 October",
+        "distance": "0 kms",
+        "duration": "0 mins"
+      },
+      "-LONGaZHCSSpgLcDKHS9": {
+        "address": "Hello street 7\nG11, G-11, Islamabad, Pakistan",
+        "contact": "03112829375",
+        "date": "Tuesday, 09 October",
+        "distance": "0 kms",
+        "duration": "0 mins"
+      },
+      "-LONIl4dnfDjU6tQE251": {
+        "address": "Hello street 7\nG11, G-11, Islamabad, Pakistan",
+        "contact": "03112829375",
+        "date": "Tuesday, 09 October",
+        "distance": "0 kms",
+        "duration": "0 mins"
+      },
+      "-LONTxaGekJ1xTkzTHEp": {
+        "address": "Hello street 7\nG11, E-10, Islamabad, Pakistan",
+        "contact": "03112829375",
+        "date": "Tuesday, 09 October",
+        "distance": "0 kms",
+        "duration": "0 mins"
+      },
+      "-LONU1ZCI8cvEwEvUYtC": {
+        "address": "Hello street 7\nG11, E-10, Islamabad, Pakistan",
+        "contact": "03112829375",
+        "date": "Tuesday, 09 October",
+        "distance": "0 kms",
+        "duration": "0 mins"
+      }
+    },
+    "03454080247": {
+      "-LONDHeBcyGzS_EO63e5": {
+        "address": "Hello street 7\nG11, H-11, Islamabad, Pakistan",
+        "contact": "03454080247",
+        "date": "Tuesday, 09 October",
+        "distance": "0 kms",
+        "duration": "0 mins"
+      },
+      "-LONNMGs3U5wfXcg-wfC": {
+        "address": "Hello street 7\nG11, E-10",
+        "contact": "03454080247",
+        "date": "Tuesday, 09 October",
+        "distance": "0 kms",
+        "duration": "0 mins"
+      },
+      "-LONTdh8Jw44ldf1nPj4": {
+        "address": "Hello street 7\nG11, E-10, Islamabad, Pakistan",
+        "contact": "03454080247",
+        "date": "Tuesday, 09 October",
+        "distance": "0 kms",
+        "duration": "0 mins"
+      },
+      "-LONU-BBnPa9RDDwn84b": {
+        "address": "Hello street 7\nG11, E-10, Islamabad, Pakistan",
+        "contact": "03454080247",
+        "date": "Tuesday, 09 October",
+        "distance": "0 kms",
+        "duration": "0 mins"
+      },
+      "-LONU4kQ2b0cGnXBRYU1": {
+        "address": "lily plaza street 5, E-7, Islamabad, Pakistan",
+        "contact": "03454080247",
+        "date": "Tuesday, 09 October",
+        "distance": "0 kms",
+        "duration": "0 mins"
+      }
+    }
+  },
+  "Riders_ID": {
+    "03112545299": "f8jfslq62cE:APA91bHqFu0FKMzBTkULKtwQFKftljpMsgsuUMc4zSeK1XlVFe8XVmGu2UOcoc1iGXB5j6RXN8Kl9vKUXEtD6C3bOYcREBLFMDpB6mDi5gUS0FKeh08HoH9fX1HFjewlN4K7xPtq8kXd",
+    "03112829375": "fVoq7iaVZb4:APA91bGjzthZVJRhyhwCwZa3A1pdn8nfnVeXebp5e6JnHrxqrzVrU_v9QFM2MqIwEnwKZUQWD1lsFaPA2gsTyJUrbZwJsefywcg4nbEqhq24zsbaT6JwO1c_UlgCrV7VJN6Q4OGxLxEQ",
+    "03454080247": "fvWJaMq4Ipc:APA91bGoJpcO9ccCCRmdZymAcl_tL3FOV-YiD9HuN4XEnxnh0SacefYRHiTrJMjvtnuFZHhCi_-prIKMfX9T8elP5WaIIV3NKgt7pmHOSL6v1yvOPgOb5NXPNTX75lHswrEjGRYSjmKY"
+  },
+  "Sectors": [
+    "Select Sector",
+    "F-7",
+    "F-8",
+    "F-10",
+    "F-11",
+    "G-7",
+    "G-8",
+    "G-9",
+    "G-10",
+    "G-11",
+    "E-7",
+    "E-8",
+    "E-9",
+    "E-10",
+    "E-11",
+    "H-8",
+    "H-9",
+    "H-10",
+    "H-11",
+    "D-12",
+    "Blue Area",
+    "F-6"
+  ],
+  "Tables": ["1", "2", "3", "4", "5"],
+  "UsersHistory": {
+    "+92": {
+      "1539067233095": {
+        "delivery_time": "Not Applicable",
+        "orderList": [
+          {
+            "description": " 1 Deal 3, Drink Flavour (Coca Cola,7up)",
+            "item": {
+              "foodName": "Deal 3",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FBurger_Deals_Exclusive%2FDeal_3.png?alt=media&token=2a7280cb-4127-4002-ac62-796c94bf3855",
+              "label": "2 zinger, 2 Chicken Pc, 2 Cold Drinks, Fries",
+              "price": 800,
+              "quantity": 1
+            },
+            "totalPrice": 800
+          }
+        ],
+        "orderTime": "1539067233095",
+        "status": "Pending",
+        "totalPrice": 800
+      },
+      "1539067279487": {
+        "delivery_time": "Not Applicable",
+        "orderList": [
+          {
+            "description": " 1 New Arrival, Pizza Deal Flavors (Chicken Tikka) Drink Flavour (7up,7up)",
+            "item": {
+              "foodName": "New Arrival",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FNew_Arrival%2FPizza%20Paratha.png?alt=media&token=e424f03f-06de-402e-a55c-a3c8ab1d845b",
+              "label": "1 Pizza Paratha, 1 Regular Drink, Fries",
+              "price": 280,
+              "quantity": 1
+            },
+            "totalPrice": 280
+          }
+        ],
+        "orderTime": "1539067279487",
+        "status": "Pending",
+        "totalPrice": 330
+      },
+      "1539166465337": {
+        "delivery_time": "Not Applicable",
+        "orderList": [
+          {
+            "description": " 1 Premium Chicken, Make a meal (1 Fries & Regular Drink),",
+            "item": {
+              "foodName": "Premium Chicken",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FChicken_burgers%2FTripple%20Chicken%20Burger.png?alt=media&token=de866b43-83ce-4f84-a2c2-b3d2b2017db6",
+              "price": 360,
+              "quantity": 0
+            },
+            "totalPrice": 460
+          },
+          {
+            "description": " 1 Fried Chicken, Add-on (5 Fries),",
+            "item": {
+              "foodName": "Fried Chicken",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FFried_Chicken%2FFried%20Chicken.png?alt=media&token=8586e490-737b-4305-a97f-eed0d33e8a85",
+              "label": "One piece",
+              "price": 150,
+              "quantity": 0
+            },
+            "totalPrice": 900
+          },
+          {
+            "description": " 1 Kebab Pizza, Drink Flavour (7up)",
+            "item": {
+              "foodName": "Kebab Pizza",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FDeals_of_the_day%2FDeal-4.jpg?alt=media&token=11657e09-6377-4768-9c05-4bfc4a457bc2",
+              "label": "1 Medium Kebab Pizza,1 Cold drink (1.5 Ltr) & 2 Roll Parathas free",
+              "price": 1000,
+              "quantity": 0
+            },
+            "totalPrice": 1000
+          },
+          {
+            "description": " 1 Deal 2, Pizza Deal Flavors (Mighty Super Pizza,Smoke BBQ,Cheese Lovers) Drink Flavour (Coca Cola)",
+            "item": {
+              "foodName": "Deal 2",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FPizza_Deals%2FPizzaDeal2.png?alt=media&token=2805b437-ff3b-43cd-bbda-7f62d1b3e563",
+              "label": "3 Large Pizza, 1 Drink (1.5 Ltr)",
+              "price": 2400,
+              "quantity": 0
+            },
+            "totalPrice": 2400
+          },
+          {
+            "description": " 7 Chicken Burgers, Add-on (1 Fries,1 Crunch Wings,12 Hot Shot),",
+            "item": {
+              "foodName": "Chicken Burgers",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FDeals_of_the_day%2FDeal-1.jpg?alt=media&token=6cdfdedd-7f30-4e4c-9eae-d950a6b63e3c",
+              "label": "02 Chicken Burgers",
+              "price": 350,
+              "quantity": 0
+            },
+            "totalPrice": 3820
+          }
+        ],
+        "orderTime": "1539166465337",
+        "status": "Pending",
+        "totalPrice": 8580
+      }
+    },
+    "+923": {
+      "1539064908763": {
+        "delivery_time": "Not Applicable",
+        "orderList": [
+          {
+            "description": " 1 Chicken Burgers,",
+            "item": {
+              "foodName": "Chicken Burgers",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FDeals_of_the_day%2FDeal-1.jpg?alt=media&token=6cdfdedd-7f30-4e4c-9eae-d950a6b63e3c",
+              "label": "02 Chicken Burgers",
+              "price": 350,
+              "quantity": 1
+            },
+            "totalPrice": 350
+          }
+        ],
+        "orderTime": "1539064908763",
+        "status": "Pending",
+        "totalPrice": 400
+      },
+      "1539064932783": {
+        "delivery_time": "Not Applicable",
+        "orderList": [
+          {
+            "description": " 1 Chicken Burgers,",
+            "item": {
+              "foodName": "Chicken Burgers",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FDeals_of_the_day%2FDeal-1.jpg?alt=media&token=6cdfdedd-7f30-4e4c-9eae-d950a6b63e3c",
+              "label": "02 Chicken Burgers",
+              "price": 350,
+              "quantity": 1
+            },
+            "totalPrice": 350
+          }
+        ],
+        "orderTime": "1539064932783",
+        "status": "Pending",
+        "totalPrice": 400
+      },
+      "1539064933447": {
+        "delivery_time": "Not Applicable",
+        "orderTime": "1539064933447",
+        "status": "Pending",
+        "totalPrice": 400
+      },
+      "1539064955245": {
+        "delivery_time": "Not Applicable",
+        "orderList": [
+          {
+            "description": " 1 Chicken Burgers,",
+            "item": {
+              "foodName": "Chicken Burgers",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FDeals_of_the_day%2FDeal-1.jpg?alt=media&token=6cdfdedd-7f30-4e4c-9eae-d950a6b63e3c",
+              "label": "02 Chicken Burgers",
+              "price": 350,
+              "quantity": 1
+            },
+            "totalPrice": 350
+          }
+        ],
+        "orderTime": "1539064955245",
+        "status": "Pending",
+        "totalPrice": 400
+      },
+      "1539158094121": {
+        "delivery_time": "Not Applicable",
+        "orderList": [
+          {
+            "description": " 1 Deal 2, Pizza Deal Flavors (Chicken Tikka,Mighty Super Pizza,Chicken Tikka) Drink Flavour (7up)",
+            "item": {
+              "foodName": "Deal 2",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FPizza_Deals%2FPizzaDeal2.png?alt=media&token=2805b437-ff3b-43cd-bbda-7f62d1b3e563",
+              "label": "3 Large Pizza, 1 Drink (1.5 Ltr)",
+              "price": 2400,
+              "quantity": 0
+            },
+            "totalPrice": 2400
+          }
+        ],
+        "orderTime": "1539158094121",
+        "status": "Pending",
+        "totalPrice": 2400
+      },
+      "1539162747232": {
+        "delivery_time": "Not Applicable",
+        "orderList": [
+          {
+            "description": " 1 Smoke BBQ, Pizza Type (Medium) Add-on (1 Hot Shot,1 Crunch Wings),",
+            "item": {
+              "foodName": "Smoke BBQ",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FPizza%2F2-(Smoke-BBQ).png?alt=media&token=44e48d76-ab21-4cd4-aefc-dc6d9190eb61",
+              "price": 650,
+              "quantity": 0
+            },
+            "totalPrice": 880
+          },
+          {
+            "description": " 1 New Arrival, Pizza Deal Flavors (Chicken Kebab,Mighty Super Pizza,Chicken Tikka) Drink Flavour (7up)",
+            "item": {
+              "foodName": "New Arrival",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FNew_Arrival%2FPizza%20Paratha.png?alt=media&token=e424f03f-06de-402e-a55c-a3c8ab1d845b",
+              "label": "1 Pizza Paratha, 1 Regular Drink, Fries",
+              "price": 280,
+              "quantity": 0
+            },
+            "totalPrice": 280
+          }
+        ],
+        "orderTime": "1539162747232",
+        "status": "Pending",
+        "totalPrice": 1160
+      }
+    },
+    "+923006088706": {
+      "1538719153521": {
+        "delivery_time": "Not Applicable",
+        "orderList": [
+          {
+            "description": " 1 Chicken Burgers,",
+            "item": {
+              "foodName": "Chicken Burgers",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FDeals_of_the_day%2FDeal-1.jpg?alt=media&token=6cdfdedd-7f30-4e4c-9eae-d950a6b63e3c",
+              "label": "02 Chicken Burgers",
+              "price": 350,
+              "quantity": 1
+            },
+            "totalPrice": 350
+          }
+        ],
+        "orderTime": "1538719153521",
+        "status": "Pending",
+        "totalPrice": 400
+      },
+      "1539001873926": {
+        "delivery_time": "Not Applicable",
+        "orderList": [
+          {
+            "description": " 1 Chicken Burgers,",
+            "item": {
+              "foodName": "Chicken Burgers",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FDeals_of_the_day%2FDeal-1.jpg?alt=media&token=6cdfdedd-7f30-4e4c-9eae-d950a6b63e3c",
+              "label": "02 Chicken Burgers",
+              "price": 350,
+              "quantity": 1
+            },
+            "totalPrice": 350
+          },
+          {
+            "description": " 18 Veggie, Pizza Type (Large) Add-on (4 Crunch Wings,6 Hot Shot,7 Fries),",
+            "item": {
+              "foodName": "Veggie",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FPizza%2F8-(Veggie).png?alt=media&token=98da2063-c7c3-4ffb-9563-4e034cf58701",
+              "price": 950,
+              "quantity": 18
+            },
+            "totalPrice": -3850
+          },
+          {
+            "description": " 1 Chicken Burgers,",
+            "item": {
+              "foodName": "Chicken Burgers",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FDeals_of_the_day%2FDeal-1.jpg?alt=media&token=6cdfdedd-7f30-4e4c-9eae-d950a6b63e3c",
+              "label": "02 Chicken Burgers",
+              "price": 350,
+              "quantity": 1
+            },
+            "totalPrice": 350
+          }
+        ],
+        "orderTime": "1539001873926",
+        "status": "Pending",
+        "totalPrice": -3100
+      },
+      "1539001904887": {
+        "delivery_time": "Not Applicable",
+        "orderList": [
+          {
+            "description": " 1 Chicken Burgers,",
+            "item": {
+              "foodName": "Chicken Burgers",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FDeals_of_the_day%2FDeal-1.jpg?alt=media&token=6cdfdedd-7f30-4e4c-9eae-d950a6b63e3c",
+              "label": "02 Chicken Burgers",
+              "price": 350,
+              "quantity": 1
+            },
+            "totalPrice": 350
+          }
+        ],
+        "orderTime": "1539001904887",
+        "status": "Pending",
+        "totalPrice": 400
+      },
+      "1539001981162": {
+        "delivery_time": "Not Applicable",
+        "orderList": [
+          {
+            "description": " 1 Chicken Burgers,",
+            "item": {
+              "foodName": "Chicken Burgers",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FDeals_of_the_day%2FDeal-1.jpg?alt=media&token=6cdfdedd-7f30-4e4c-9eae-d950a6b63e3c",
+              "label": "02 Chicken Burgers",
+              "price": 350,
+              "quantity": 1
+            },
+            "totalPrice": 350
+          }
+        ],
+        "orderTime": "1539001981162",
+        "status": "Pending",
+        "totalPrice": 400
+      },
+      "1539064084869": {
+        "delivery_time": "Not Applicable",
+        "orderList": [
+          {
+            "description": " 1 Chicken Burgers,",
+            "item": {
+              "foodName": "Chicken Burgers",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FDeals_of_the_day%2FDeal-1.jpg?alt=media&token=6cdfdedd-7f30-4e4c-9eae-d950a6b63e3c",
+              "label": "02 Chicken Burgers",
+              "price": 350,
+              "quantity": 1
+            },
+            "totalPrice": 350
+          }
+        ],
+        "orderTime": "1539064084869",
+        "status": "Pending",
+        "totalPrice": 400
+      },
+      "1539064790574": {
+        "delivery_time": "Not Applicable",
+        "orderList": [
+          {
+            "description": " 1 Chicken Burgers,",
+            "item": {
+              "foodName": "Chicken Burgers",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FDeals_of_the_day%2FDeal-1.jpg?alt=media&token=6cdfdedd-7f30-4e4c-9eae-d950a6b63e3c",
+              "label": "02 Chicken Burgers",
+              "price": 350,
+              "quantity": 1
+            },
+            "totalPrice": 350
+          }
+        ],
+        "orderTime": "1539064790574",
+        "status": "Pending",
+        "totalPrice": 400
+      },
+      "1539065010875": {
+        "delivery_time": "Not Applicable",
+        "orderList": [
+          {
+            "description": " 1 Zinger Burgers,",
+            "item": {
+              "foodName": "Zinger Burgers",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FDeals_of_the_day%2FDeal-2.jpg?alt=media&token=e4de5f0b-8114-44fe-b1d6-f5783e424b11",
+              "label": "02 Zinger Burgers",
+              "price": 450,
+              "quantity": 1
+            },
+            "totalPrice": 450
+          }
+        ],
+        "orderTime": "1539065010875",
+        "status": "Pending",
+        "totalPrice": 450
+      },
+      "1539065031968": {
+        "delivery_time": "Not Applicable",
+        "orderList": [
+          {
+            "description": " 1 Zinger Burgers,",
+            "item": {
+              "foodName": "Zinger Burgers",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FDeals_of_the_day%2FDeal-2.jpg?alt=media&token=e4de5f0b-8114-44fe-b1d6-f5783e424b11",
+              "label": "02 Zinger Burgers",
+              "price": 450,
+              "quantity": 1
+            },
+            "totalPrice": 450
+          }
+        ],
+        "orderTime": "1539065031968",
+        "status": "Pending",
+        "totalPrice": 450
+      },
+      "1539065053788": {
+        "delivery_time": "Not Applicable",
+        "orderList": [
+          {
+            "description": " 1 Zinger Burgers,",
+            "item": {
+              "foodName": "Zinger Burgers",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FDeals_of_the_day%2FDeal-2.jpg?alt=media&token=e4de5f0b-8114-44fe-b1d6-f5783e424b11",
+              "label": "02 Zinger Burgers",
+              "price": 450,
+              "quantity": 1
+            },
+            "totalPrice": 450
+          }
+        ],
+        "orderTime": "1539065053788",
+        "status": "Pending",
+        "totalPrice": 450
+      },
+      "1539065239534": {
+        "delivery_time": "Not Applicable",
+        "orderList": [
+          {
+            "description": " 1 Chicken Burgers,",
+            "item": {
+              "foodName": "Chicken Burgers",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FDeals_of_the_day%2FDeal-1.jpg?alt=media&token=6cdfdedd-7f30-4e4c-9eae-d950a6b63e3c",
+              "label": "02 Chicken Burgers",
+              "price": 350,
+              "quantity": 1
+            },
+            "totalPrice": 350
+          }
+        ],
+        "orderTime": "1539065239534",
+        "status": "Pending",
+        "totalPrice": 400
+      },
+      "1539065277030": {
+        "delivery_time": "Not Applicable",
+        "orderList": [
+          {
+            "description": " 1 Chicken Burgers,",
+            "item": {
+              "foodName": "Chicken Burgers",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FDeals_of_the_day%2FDeal-1.jpg?alt=media&token=6cdfdedd-7f30-4e4c-9eae-d950a6b63e3c",
+              "label": "02 Chicken Burgers",
+              "price": 350,
+              "quantity": 1
+            },
+            "totalPrice": 350
+          }
+        ],
+        "orderTime": "1539065277030",
+        "status": "Pending",
+        "totalPrice": 400
+      },
+      "1539065321987": {
+        "delivery_time": "Not Applicable",
+        "orderList": [
+          {
+            "description": " 1 Zinger Burgers,",
+            "item": {
+              "foodName": "Zinger Burgers",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FDeals_of_the_day%2FDeal-2.jpg?alt=media&token=e4de5f0b-8114-44fe-b1d6-f5783e424b11",
+              "label": "02 Zinger Burgers",
+              "price": 450,
+              "quantity": 1
+            },
+            "totalPrice": 450
+          }
+        ],
+        "orderTime": "1539065321987",
+        "status": "Pending",
+        "totalPrice": 450
+      },
+      "1539065351108": {
+        "delivery_time": "Not Applicable",
+        "orderList": [
+          {
+            "description": " 1 Zinger Burgers,",
+            "item": {
+              "foodName": "Zinger Burgers",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FDeals_of_the_day%2FDeal-2.jpg?alt=media&token=e4de5f0b-8114-44fe-b1d6-f5783e424b11",
+              "label": "02 Zinger Burgers",
+              "price": 450,
+              "quantity": 1
+            },
+            "totalPrice": 450
+          }
+        ],
+        "orderTime": "1539065351108",
+        "status": "Pending",
+        "totalPrice": 450
+      },
+      "1539071828636": {
+        "delivery_time": "15 min",
+        "orderList": [
+          {
+            "description": " 6 Deal 4, Add-on (1 Fries,1 Hot Shot,1 Crunch Wings), Pizza Deal Flavors (Chicken Kebab) Drink Flavour (7up)",
+            "item": {
+              "foodName": "Deal 4",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FBurger_Deals_Exclusive%2FDeal_4.png?alt=media&token=0869176b-5e55-49fb-b5b8-087176483edf",
+              "label": "2 zinger, 8 inch pizza, Fries, Drink (1.5 ltr)",
+              "price": 900,
+              "quantity": 0
+            },
+            "totalPrice": 5780
+          }
+        ],
+        "orderTime": "1539071828636",
+        "status": "Accepted",
+        "totalPrice": 5780
+      }
+    },
+    "+9231123282444": {
+      "1539063033748": {
+        "delivery_time": "Not Applicable",
+        "orderList": [
+          {
+            "description": " 1 Double Tower, Make a meal (1 Fries & Regular Drink),",
+            "item": {
+              "foodName": "Double Tower",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FZinger_Burgers%2FDouble%20Tower.png?alt=media&token=69ac706c-7740-4d36-8695-8dccf6b51b12",
+              "price": 400,
+              "quantity": 1
+            },
+            "totalPrice": 500
+          }
+        ],
+        "orderTime": "1539063033748",
+        "status": "Pending",
+        "totalPrice": 500
+      },
+      "1539148664188": {
+        "delivery_time": "Rider is not available",
+        "orderList": [
+          {
+            "description": " 1 Zinger Burgers,",
+            "item": {
+              "foodName": "Zinger Burgers",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FDeals_of_the_day%2FDeal-2.jpg?alt=media&token=e4de5f0b-8114-44fe-b1d6-f5783e424b11",
+              "label": "02 Zinger Burgers",
+              "price": 450,
+              "quantity": 0
+            },
+            "totalPrice": 450
+          }
+        ],
+        "orderTime": "1539148664188",
+        "status": "Rejected",
+        "totalPrice": 450
+      },
+      "1539148845375": {
+        "delivery_time": "15 min",
+        "orderList": [
+          {
+            "description": " 3 Zinger Burgers,",
+            "item": {
+              "foodName": "Zinger Burgers",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FDeals_of_the_day%2FDeal-2.jpg?alt=media&token=e4de5f0b-8114-44fe-b1d6-f5783e424b11",
+              "label": "02 Zinger Burgers",
+              "price": 450,
+              "quantity": 0
+            },
+            "totalPrice": 1350
+          }
+        ],
+        "orderTime": "1539148845375",
+        "status": "Accepted",
+        "totalPrice": 1350
+      },
+      "1539152606706": {
+        "delivery_time": "Not Applicable",
+        "orderList": [
+          {
+            "description": " 5 Fried Chicken, Add-on (1 Fries,4 Hot Shot), Make a meal (3 Fries & Regular Drink),",
+            "item": {
+              "foodName": "Fried Chicken",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FFried_Chicken%2FFried%20Chicken.png?alt=media&token=8586e490-737b-4305-a97f-eed0d33e8a85",
+              "price": 150,
+              "quantity": 0
+            },
+            "totalPrice": 1560
+          },
+          {
+            "description": " 1 Deal 5, Drink Flavour (Fanta)",
+            "item": {
+              "foodName": "Deal 5",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FBurger_Deals_Exclusive%2FExclusive_Deal.png?alt=media&token=d7974b1e-89e4-4137-a9c3-d099c1e234f3",
+              "label": "4 Zinger, 4 Chicken Pc, Drink (1.5 ltr)",
+              "price": 1450,
+              "quantity": 0
+            },
+            "totalPrice": 1450
+          },
+          {
+            "description": " 3 Zinger Burgers,",
+            "item": {
+              "foodName": "Zinger Burgers",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FDeals_of_the_day%2FDeal-2.jpg?alt=media&token=e4de5f0b-8114-44fe-b1d6-f5783e424b11",
+              "label": "02 Zinger Burgers",
+              "price": 450,
+              "quantity": 0
+            },
+            "totalPrice": 1350
+          }
+        ],
+        "orderTime": "1539152606706",
+        "status": "Pending",
+        "totalPrice": 4360
+      }
+    },
+    "+923112528299": {
+      "1539077684403": {
+        "delivery_time": "15 min",
+        "orderList": [
+          {
+            "description": " 1 New Arrival, Pizza Deal Flavors (Chicken Tikka) Drink Flavour (Fanta)",
+            "item": {
+              "foodName": "New Arrival",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FNew_Arrival%2FPizza%20Paratha.png?alt=media&token=e424f03f-06de-402e-a55c-a3c8ab1d845b",
+              "label": "1 Pizza Paratha, 1 Regular Drink, Fries",
+              "price": 280,
+              "quantity": 0
+            },
+            "totalPrice": 280
+          }
+        ],
+        "orderTime": "1539077684403",
+        "status": "Accepted",
+        "totalPrice": 330
+      }
+    },
+    "+923118523699": {
+      "1538645001127": {
+        "delivery_time": "15 min",
+        "orderList": [
+          {
+            "description": " 1 Chicken Burgers,",
+            "item": {
+              "foodName": "Chicken Burgers",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FDeals_of_the_day%2FDeal-1.jpg?alt=media&token=6cdfdedd-7f30-4e4c-9eae-d950a6b63e3c",
+              "label": "02 Chicken Burgers",
+              "price": 350,
+              "quantity": 1
+            },
+            "totalPrice": 350
+          }
+        ],
+        "orderTime": "1538645001127",
+        "status": "Delivered",
+        "totalPrice": 400
+      },
+      "1538645122932": {
+        "delivery_time": "Product is not available",
+        "orderList": [
+          {
+            "description": " 1 Double Tower,",
+            "item": {
+              "foodName": "Double Tower",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FZinger_Burgers%2FDouble%20Tower.png?alt=media&token=69ac706c-7740-4d36-8695-8dccf6b51b12",
+              "price": 400,
+              "quantity": 1
+            },
+            "totalPrice": 400
+          }
+        ],
+        "orderTime": "1538645122932",
+        "status": "Rejected",
+        "totalPrice": 400
+      },
+      "1538645294690": {
+        "delivery_time": "Product is not available",
+        "orderList": [
+          {
+            "description": " 1 Tower Burger,",
+            "item": {
+              "foodName": "Tower Burger",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FZinger_Burgers%2FTower%20Burger.png?alt=media&token=93ea1707-062a-4769-9aef-9d03e17dc546",
+              "price": 330,
+              "quantity": 1
+            },
+            "totalPrice": 330
+          }
+        ],
+        "orderTime": "1538645294690",
+        "status": "Rejected",
+        "totalPrice": 380
+      },
+      "1538646505109": {
+        "delivery_time": "Product is not available",
+        "orderList": [
+          {
+            "description": " 1 Tower Burger, Make a meal (1 Fries & Regular Drink),",
+            "item": {
+              "foodName": "Tower Burger",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FZinger_Burgers%2FTower%20Burger.png?alt=media&token=93ea1707-062a-4769-9aef-9d03e17dc546",
+              "price": 330,
+              "quantity": 1
+            },
+            "totalPrice": 430
+          },
+          {
+            "description": " 1 Zinger Burgers,",
+            "item": {
+              "foodName": "Zinger Burgers",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FDeals_of_the_day%2FDeal-2.jpg?alt=media&token=e4de5f0b-8114-44fe-b1d6-f5783e424b11",
+              "label": "02 Zinger Burgers",
+              "price": 450,
+              "quantity": 1
+            },
+            "totalPrice": 450
+          }
+        ],
+        "orderTime": "1538646505109",
+        "status": "Rejected",
+        "totalPrice": 880
+      },
+      "1538646550025": {
+        "delivery_time": "Rider is not available",
+        "orderList": [
+          {
+            "description": " 1 Triple Chicken Burger,",
+            "item": {
+              "foodName": "Triple Chicken Burger",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FChicken_burgers%2FTripple%20Chicken%20Burger.png?alt=media&token=de866b43-83ce-4f84-a2c2-b3d2b2017db6",
+              "price": 360,
+              "quantity": 1
+            },
+            "totalPrice": 360
+          }
+        ],
+        "orderTime": "1538646550025",
+        "status": "Rejected",
+        "totalPrice": 360
+      },
+      "1538647487514": {
+        "delivery_time": "15 min",
+        "orderList": [
+          {
+            "description": " 1 Mighty Burger,",
+            "item": {
+              "foodName": "Mighty Burger",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FZinger_Burgers%2FMighty%20Burger.png?alt=media&token=5e70f342-b44a-476b-950c-c7a83d5fa14f",
+              "price": 420,
+              "quantity": 1
+            },
+            "totalPrice": 420
+          }
+        ],
+        "orderTime": "1538647487514",
+        "status": "Delivered",
+        "totalPrice": 420
+      },
+      "1538647662992": {
+        "delivery_time": "15 min",
+        "orderList": [
+          {
+            "description": " 1 Chicken Burgers,",
+            "item": {
+              "foodName": "Chicken Burgers",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FDeals_of_the_day%2FDeal-1.jpg?alt=media&token=6cdfdedd-7f30-4e4c-9eae-d950a6b63e3c",
+              "label": "02 Chicken Burgers",
+              "price": 350,
+              "quantity": 1
+            },
+            "totalPrice": 350
+          }
+        ],
+        "orderTime": "1538647662992",
+        "status": "Delivered",
+        "totalPrice": 400
+      },
+      "1538647693014": {
+        "delivery_time": "Product is not available",
+        "orderList": [
+          {
+            "description": " 1 Veggie, Pizza Type (Medium)",
+            "item": {
+              "foodName": "Veggie",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FPizza%2F8-(Veggie).png?alt=media&token=98da2063-c7c3-4ffb-9563-4e034cf58701",
+              "price": 650,
+              "quantity": 1
+            },
+            "totalPrice": 650
+          }
+        ],
+        "orderTime": "1538647693014",
+        "status": "Rejected",
+        "totalPrice": 650
+      },
+      "1538647761152": {
+        "delivery_time": "15 min",
+        "orderList": [
+          {
+            "description": " 1 Triple Chicken Burger,",
+            "item": {
+              "foodName": "Triple Chicken Burger",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FChicken_burgers%2FTripple%20Chicken%20Burger.png?alt=media&token=de866b43-83ce-4f84-a2c2-b3d2b2017db6",
+              "price": 360,
+              "quantity": 1
+            },
+            "totalPrice": 360
+          }
+        ],
+        "orderTime": "1538647761152",
+        "status": "Delivered",
+        "totalPrice": 360
+      },
+      "1538647894577": {
+        "delivery_time": "Rider is not available",
+        "orderList": [
+          {
+            "description": " 9 Zinger Burgers, Add-on (7 Fries,5 Hot Shot),",
+            "item": {
+              "foodName": "Zinger Burgers",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FDeals_of_the_day%2FDeal-2.jpg?alt=media&token=e4de5f0b-8114-44fe-b1d6-f5783e424b11",
+              "label": "02 Zinger Burgers",
+              "price": 450,
+              "quantity": 9
+            },
+            "totalPrice": 5550
+          }
+        ],
+        "orderTime": "1538647894577",
+        "status": "Rejected",
+        "totalPrice": 5550
+      },
+      "1538649409482": {
+        "delivery_time": "Product is not available",
+        "orderList": [
+          {
+            "description": " 1 Veggie, Pizza Type (Medium)",
+            "item": {
+              "foodName": "Veggie",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FPizza%2F8-(Veggie).png?alt=media&token=98da2063-c7c3-4ffb-9563-4e034cf58701",
+              "price": 650,
+              "quantity": 1
+            },
+            "totalPrice": 650
+          },
+          {
+            "description": " 6 Kebab Pizza, Drink Flavour (Coca Cola)",
+            "item": {
+              "foodName": "Kebab Pizza",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FDeals_of_the_day%2FDeal-4.jpg?alt=media&token=11657e09-6377-4768-9c05-4bfc4a457bc2",
+              "label": "1 Medium Kebab Pizza,1 Cold drink (1.5 Ltr) & 2 Roll Parathas free",
+              "price": 1000,
+              "quantity": 6
+            },
+            "totalPrice": 6000
+          },
+          {
+            "description": " 7 Regular, Add-on (1 Hot Shot,1 Crunch Wings,1 Fries),",
+            "item": {
+              "foodName": "Regular",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FDrinks%2FRegularDrink.png?alt=media&token=443a05b1-73e6-47f5-a586-9a85de3fc7b9",
+              "label": "1 Regular Drink",
+              "price": 40,
+              "quantity": 7
+            },
+            "totalPrice": 660
+          }
+        ],
+        "orderTime": "1538649409482",
+        "status": "Rejected",
+        "totalPrice": 7310
+      },
+      "1538712901806": {
+        "delivery_time": "Product is not available",
+        "orderList": [
+          {
+            "description": " 2 Veggie, Pizza Type (Large)",
+            "item": {
+              "foodName": "Veggie",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FPizza%2F8-(Veggie).png?alt=media&token=98da2063-c7c3-4ffb-9563-4e034cf58701",
+              "price": 950,
+              "quantity": 2
+            },
+            "totalPrice": 1900
+          }
+        ],
+        "orderTime": "1538712901806",
+        "status": "Rejected",
+        "totalPrice": 1900
+      },
+      "1538713580919": {
+        "delivery_time": "15 min",
+        "orderList": [
+          {
+            "description": " 9 Veggie, Pizza Type (Medium)",
+            "item": {
+              "foodName": "Veggie",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FPizza%2F8-(Veggie).png?alt=media&token=98da2063-c7c3-4ffb-9563-4e034cf58701",
+              "price": 650,
+              "quantity": 9
+            },
+            "totalPrice": 5850
+          },
+          {
+            "description": " 26 Double Chicken Burger, Add-on (1 Crunch Wings,1 Fries,1 Hot Shot), Make a meal (8 Fries & Regular Drink),",
+            "item": {
+              "foodName": "Double Chicken Burger",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FChicken_burgers%2FDouble%20Chicken%20Burger.png?alt=media&token=b135f86f-c089-4763-b07a-9aa8b0d1f1d2",
+              "price": 280,
+              "quantity": 26
+            },
+            "totalPrice": 8460
+          }
+        ],
+        "orderTime": "1538713580919",
+        "status": "Accepted",
+        "totalPrice": 14310
+      },
+      "1538713644377": {
+        "delivery_time": "Rider is not available",
+        "orderList": [
+          {
+            "description": " 1 New Arrival, Pizza Deal Flavors (Chicken Kebab) Drink Flavour (Coca Cola)",
+            "item": {
+              "foodName": "New Arrival",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FNew_Arrival%2FPizza%20Paratha.png?alt=media&token=e424f03f-06de-402e-a55c-a3c8ab1d845b",
+              "label": "1 Pizza Paratha, 1 Regular Drink, Fries",
+              "price": 280,
+              "quantity": 1
+            },
+            "totalPrice": 280
+          }
+        ],
+        "orderTime": "1538713644377",
+        "status": "Rejected",
+        "totalPrice": 330
+      },
+      "1538713689039": {
+        "delivery_time": "Product is not available",
+        "orderList": [
+          {
+            "description": " 3 Tower Burger,",
+            "item": {
+              "foodName": "Tower Burger",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FZinger_Burgers%2FTower%20Burger.png?alt=media&token=93ea1707-062a-4769-9aef-9d03e17dc546",
+              "price": 330,
+              "quantity": 3
+            },
+            "totalPrice": 990
+          }
+        ],
+        "orderTime": "1538713689039",
+        "status": "Rejected",
+        "totalPrice": 990
+      },
+      "1538713836081": {
+        "delivery_time": "Rider is not available",
+        "orderList": [
+          {
+            "description": " 4 Mighty Burger,",
+            "item": {
+              "foodName": "Mighty Burger",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FZinger_Burgers%2FMighty%20Burger.png?alt=media&token=5e70f342-b44a-476b-950c-c7a83d5fa14f",
+              "price": 420,
+              "quantity": 4
+            },
+            "totalPrice": 1680
+          },
+          {
+            "description": " 4 Kebab Pizza, Drink Flavour (7up)",
+            "item": {
+              "foodName": "Kebab Pizza",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FDeals_of_the_day%2FDeal-4.jpg?alt=media&token=11657e09-6377-4768-9c05-4bfc4a457bc2",
+              "label": "1 Medium Kebab Pizza,1 Cold drink (1.5 Ltr) & 2 Roll Parathas free",
+              "price": 1000,
+              "quantity": 4
+            },
+            "totalPrice": 4000
+          }
+        ],
+        "orderTime": "1538713836081",
+        "status": "Rejected",
+        "totalPrice": 5680
+      },
+      "1538714243762": {
+        "delivery_time": "Rider is not available",
+        "orderList": [
+          {
+            "description": " 1 Deal 3, Drink Flavour (Coca Cola,Fanta)",
+            "item": {
+              "foodName": "Deal 3",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FBurger_Deals_Exclusive%2FDeal_3.png?alt=media&token=2a7280cb-4127-4002-ac62-796c94bf3855",
+              "label": "2 zinger, 2 Chicken Pc, 2 Cold Drinks, Fries",
+              "price": 800,
+              "quantity": 1
+            },
+            "totalPrice": 800
+          },
+          {
+            "description": " 1 New Arrival, Pizza Deal Flavors (Mighty Super Pizza) Drink Flavour (Coca Cola,Fanta)",
+            "item": {
+              "foodName": "New Arrival",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FNew_Arrival%2FPizza%20Paratha.png?alt=media&token=e424f03f-06de-402e-a55c-a3c8ab1d845b",
+              "label": "1 Pizza Paratha, 1 Regular Drink, Fries",
+              "price": 280,
+              "quantity": 1
+            },
+            "totalPrice": 280
+          }
+        ],
+        "orderTime": "1538714243762",
+        "status": "Rejected",
+        "totalPrice": 1080
+      },
+      "1538714655100": {
+        "delivery_time": "15 min",
+        "orderList": [
+          {
+            "description": " 1 New Arrival, Pizza Deal Flavors (Cheese Lovers) Drink Flavour (Fanta,Coca Cola)",
+            "item": {
+              "foodName": "New Arrival",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FNew_Arrival%2FPizza%20Paratha.png?alt=media&token=e424f03f-06de-402e-a55c-a3c8ab1d845b",
+              "label": "1 Pizza Paratha, 1 Regular Drink, Fries",
+              "price": 280,
+              "quantity": 1
+            },
+            "totalPrice": 280
+          }
+        ],
+        "orderTime": "1538714655100",
+        "status": "Accepted",
+        "totalPrice": 330
+      }
+    },
+    "+923118536999": {
+      "1539067322213": {
+        "delivery_time": "15 min",
+        "orderList": [
+          {
+            "description": " 1 Zinger Burgers, Add-on (1 Crunch Wings),",
+            "item": {
+              "foodName": "Zinger Burgers",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FDeals_of_the_day%2FDeal-2.jpg?alt=media&token=e4de5f0b-8114-44fe-b1d6-f5783e424b11",
+              "label": "02 Zinger Burgers",
+              "price": 450,
+              "quantity": 1
+            },
+            "totalPrice": 590
+          }
+        ],
+        "orderTime": "1539067322213",
+        "status": "Accepted",
+        "totalPrice": 590
+      },
+      "1539067338128": {
+        "delivery_time": "15 min",
+        "orderList": [
+          {
+            "description": " 1 Zinger Burgers,",
+            "item": {
+              "foodName": "Zinger Burgers",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FDeals_of_the_day%2FDeal-2.jpg?alt=media&token=e4de5f0b-8114-44fe-b1d6-f5783e424b11",
+              "label": "02 Zinger Burgers",
+              "price": 450,
+              "quantity": 1
+            },
+            "totalPrice": 450
+          }
+        ],
+        "orderTime": "1539067338128",
+        "status": "Accepted",
+        "totalPrice": 450
+      },
+      "1539067590517": {
+        "delivery_time": "15 min",
+        "orderList": [
+          {
+            "description": " 1 Zinger Burgers,",
+            "item": {
+              "foodName": "Zinger Burgers",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FDeals_of_the_day%2FDeal-2.jpg?alt=media&token=e4de5f0b-8114-44fe-b1d6-f5783e424b11",
+              "label": "02 Zinger Burgers",
+              "price": 450,
+              "quantity": 1
+            },
+            "totalPrice": 450
+          }
+        ],
+        "orderTime": "1539067590517",
+        "status": "Delivered",
+        "totalPrice": 450
+      },
+      "1539067600014": {
+        "delivery_time": "15 min",
+        "orderList": [
+          {
+            "description": " 1 Chicken Burgers,",
+            "item": {
+              "foodName": "Chicken Burgers",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FDeals_of_the_day%2FDeal-1.jpg?alt=media&token=6cdfdedd-7f30-4e4c-9eae-d950a6b63e3c",
+              "label": "02 Chicken Burgers",
+              "price": 350,
+              "quantity": 1
+            },
+            "totalPrice": 350
+          }
+        ],
+        "orderTime": "1539067600014",
+        "status": "Accepted",
+        "totalPrice": 400
+      },
+      "1539067621391": {
+        "delivery_time": "Not Applicable",
+        "orderList": [
+          {
+            "description": " 1 Tower Burgers, Drink Flavour (7up,Fanta)",
+            "item": {
+              "foodName": "Tower Burgers",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FDeals_of_the_day%2FDeal-3.jpg?alt=media&token=7870426d-fcbd-4ac0-837d-e06c3ea1796f",
+              "label": "02 Tower Burgers & 02 Regular Drinks",
+              "price": 600,
+              "quantity": 1
+            },
+            "totalPrice": 600
+          }
+        ],
+        "orderTime": "1539067621391",
+        "status": "Pending",
+        "totalPrice": 600
+      },
+      "1539068101174": {
+        "delivery_time": "Not Applicable",
+        "orderList": [
+          {
+            "description": " 1 Kebab Pizza, Drink Flavour (Fanta,Fanta)",
+            "item": {
+              "foodName": "Kebab Pizza",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FDeals_of_the_day%2FDeal-4.jpg?alt=media&token=11657e09-6377-4768-9c05-4bfc4a457bc2",
+              "label": "1 Medium Kebab Pizza,1 Cold drink (1.5 Ltr) & 2 Roll Parathas free",
+              "price": 1000,
+              "quantity": 1
+            },
+            "totalPrice": 1000
+          }
+        ],
+        "orderTime": "1539068101174",
+        "status": "Pending",
+        "totalPrice": 1000
+      },
+      "1539068342378": {
+        "delivery_time": "15 min",
+        "orderList": [
+          {
+            "description": " 0 Double Chicken Burger, Make a meal (1 Fries & Regular Drink),",
+            "item": {
+              "foodName": "Double Chicken Burger",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FChicken_burgers%2FDouble%20Chicken%20Burger.png?alt=media&token=b135f86f-c089-4763-b07a-9aa8b0d1f1d2",
+              "price": 280,
+              "quantity": 0
+            },
+            "totalPrice": 380
+          }
+        ],
+        "orderTime": "1539068342378",
+        "status": "Delivered",
+        "totalPrice": 380
+      },
+      "1539068354021": {
+        "delivery_time": "15 min",
+        "orderList": [
+          {
+            "description": " 0 Zinger Burgers, Add-on (1 Fries),",
+            "item": {
+              "foodName": "Zinger Burgers",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FDeals_of_the_day%2FDeal-2.jpg?alt=media&token=e4de5f0b-8114-44fe-b1d6-f5783e424b11",
+              "label": "02 Zinger Burgers",
+              "price": 450,
+              "quantity": 0
+            },
+            "totalPrice": 600
+          }
+        ],
+        "orderTime": "1539068354021",
+        "status": "Delivered",
+        "totalPrice": 600
+      },
+      "1539068366272": {
+        "delivery_time": "15 min",
+        "orderList": [
+          {
+            "description": " 0 Zinger Burgers,",
+            "item": {
+              "foodName": "Zinger Burgers",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FDeals_of_the_day%2FDeal-2.jpg?alt=media&token=e4de5f0b-8114-44fe-b1d6-f5783e424b11",
+              "label": "02 Zinger Burgers",
+              "price": 450,
+              "quantity": 0
+            },
+            "totalPrice": 450
+          }
+        ],
+        "orderTime": "1539068366272",
+        "status": "Delivered",
+        "totalPrice": 450
+      },
+      "1539068382942": {
+        "delivery_time": "15 min",
+        "orderList": [
+          {
+            "description": " 0 Zinger Burgers,",
+            "item": {
+              "foodName": "Zinger Burgers",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FDeals_of_the_day%2FDeal-2.jpg?alt=media&token=e4de5f0b-8114-44fe-b1d6-f5783e424b11",
+              "label": "02 Zinger Burgers",
+              "price": 450,
+              "quantity": 0
+            },
+            "totalPrice": 450
+          }
+        ],
+        "orderTime": "1539068382942",
+        "status": "Accepted",
+        "totalPrice": 450
+      },
+      "1539068916311": {
+        "delivery_time": "15 min",
+        "orderList": [
+          {
+            "description": " 0 Chicken Burger,",
+            "item": {
+              "foodName": "Chicken Burger",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FChicken_burgers%2FChicken%20Burger.png?alt=media&token=7b616295-aa22-44b4-b372-bc4931a8c811",
+              "price": 200,
+              "quantity": 0
+            },
+            "totalPrice": 200
+          }
+        ],
+        "orderTime": "1539068916311",
+        "status": "Delivered",
+        "totalPrice": 250
+      },
+      "1539068940563": {
+        "delivery_time": "Not Applicable",
+        "orderList": [
+          {
+            "description": " 0 Smoke BBQ, Pizza Type (Personal)",
+            "item": {
+              "foodName": "Smoke BBQ",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FPizza%2F2-(Smoke-BBQ).png?alt=media&token=44e48d76-ab21-4cd4-aefc-dc6d9190eb61",
+              "price": 250,
+              "quantity": 0
+            },
+            "totalPrice": 250
+          }
+        ],
+        "orderTime": "1539068940563",
+        "status": "Pending",
+        "totalPrice": 300
+      },
+      "1539069882975": {
+        "delivery_time": "15 min",
+        "orderList": [
+          {
+            "description": " 0 Veggie, Pizza Type (Personal)",
+            "item": {
+              "foodName": "Veggie",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FPizza%2F8-(Veggie).png?alt=media&token=98da2063-c7c3-4ffb-9563-4e034cf58701",
+              "price": 250,
+              "quantity": 0
+            },
+            "totalPrice": 250
+          },
+          {
+            "description": " 0 Large,",
+            "item": {
+              "foodName": "Large",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FDrinks%2FLargeDrink.png?alt=media&token=28d3b124-3fda-4517-a7d7-89172f1d960e",
+              "label": "1 Drink (1.5 Ltr)",
+              "price": 110,
+              "quantity": 0
+            },
+            "totalPrice": 110
+          },
+          {
+            "description": " 0 Double Tower,",
+            "item": {
+              "foodName": "Double Tower",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FZinger_Burgers%2FDouble%20Tower.png?alt=media&token=69ac706c-7740-4d36-8695-8dccf6b51b12",
+              "price": 400,
+              "quantity": 0
+            },
+            "totalPrice": 400
+          },
+          {
+            "description": " 0 Zinger Burgers,",
+            "item": {
+              "foodName": "Zinger Burgers",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FDeals_of_the_day%2FDeal-2.jpg?alt=media&token=e4de5f0b-8114-44fe-b1d6-f5783e424b11",
+              "label": "02 Zinger Burgers",
+              "price": 450,
+              "quantity": 0
+            },
+            "totalPrice": 450
+          },
+          {
+            "description": " 0 Chicken Burgers,",
+            "item": {
+              "foodName": "Chicken Burgers",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FDeals_of_the_day%2FDeal-1.jpg?alt=media&token=6cdfdedd-7f30-4e4c-9eae-d950a6b63e3c",
+              "label": "02 Chicken Burgers",
+              "price": 350,
+              "quantity": 0
+            },
+            "totalPrice": 350
+          }
+        ],
+        "orderTime": "1539069882975",
+        "status": "Delivered",
+        "totalPrice": 1560
+      },
+      "1539077693963": {
+        "delivery_time": "15 min",
+        "orderList": [
+          {
+            "description": " 2 Zinger Burgers, Add-on (1 Fries,1 Hot Shot,1 Crunch Wings),",
+            "item": {
+              "foodName": "Zinger Burgers",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FDeals_of_the_day%2FDeal-2.jpg?alt=media&token=e4de5f0b-8114-44fe-b1d6-f5783e424b11",
+              "label": "02 Zinger Burgers",
+              "price": 450,
+              "quantity": 0
+            },
+            "totalPrice": 1280
+          },
+          {
+            "description": " 1 Chicken Burgers,",
+            "item": {
+              "foodName": "Chicken Burgers",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FDeals_of_the_day%2FDeal-1.jpg?alt=media&token=6cdfdedd-7f30-4e4c-9eae-d950a6b63e3c",
+              "label": "02 Chicken Burgers",
+              "price": 350,
+              "quantity": 0
+            },
+            "totalPrice": 350
+          }
+        ],
+        "orderTime": "1539077693963",
+        "status": "Delivered",
+        "totalPrice": 1630
+      },
+      "1539077808840": {
+        "delivery_time": "15 min",
+        "orderList": [
+          {
+            "description": " 1 Kebab Pizza, Drink Flavour (7up)",
+            "item": {
+              "foodName": "Kebab Pizza",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FDeals_of_the_day%2FDeal-4.jpg?alt=media&token=11657e09-6377-4768-9c05-4bfc4a457bc2",
+              "label": "1 Medium Kebab Pizza,1 Cold drink (1.5 Ltr) & 2 Roll Parathas free",
+              "price": 1000,
+              "quantity": 0
+            },
+            "totalPrice": 1000
+          }
+        ],
+        "orderTime": "1539077808840",
+        "status": "Delivered",
+        "totalPrice": 1000
+      },
+      "1539080681867": {
+        "delivery_time": "15 min",
+        "orderList": [
+          {
+            "description": " 1 Deal 4, Pizza Deal Flavors (Chicken Tikka) Drink Flavour (7up)",
+            "item": {
+              "foodName": "Deal 4",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FBurger_Deals_Exclusive%2FDeal_4.png?alt=media&token=0869176b-5e55-49fb-b5b8-087176483edf",
+              "label": "2 zinger, 8 inch pizza, Fries, Drink (1.5 ltr)",
+              "price": 900,
+              "quantity": 0
+            },
+            "totalPrice": 900
+          }
+        ],
+        "orderTime": "1539080681867",
+        "status": "Delivered",
+        "totalPrice": 900
+      },
+      "1539080701030": {
+        "delivery_time": "15 min",
+        "orderList": [
+          {
+            "description": " 1 Chicken Burgers,",
+            "item": {
+              "foodName": "Chicken Burgers",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FDeals_of_the_day%2FDeal-1.jpg?alt=media&token=6cdfdedd-7f30-4e4c-9eae-d950a6b63e3c",
+              "label": "02 Chicken Burgers",
+              "price": 350,
+              "quantity": 0
+            },
+            "totalPrice": 350
+          }
+        ],
+        "orderTime": "1539080701030",
+        "status": "Delivered",
+        "totalPrice": 400
+      },
+      "1539080836427": {
+        "delivery_time": "15 min",
+        "orderList": [
+          {
+            "description": " 1 Chicken Burgers, Add-on (1 Fries,1 Crunch Wings),",
+            "item": {
+              "foodName": "Chicken Burgers",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FDeals_of_the_day%2FDeal-1.jpg?alt=media&token=6cdfdedd-7f30-4e4c-9eae-d950a6b63e3c",
+              "label": "02 Chicken Burgers",
+              "price": 350,
+              "quantity": 0
+            },
+            "totalPrice": 640
+          },
+          {
+            "description": " 1 Regular, Add-on (1 Hot Shot),",
+            "item": {
+              "foodName": "Regular",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FDrinks%2FRegularDrink.png?alt=media&token=443a05b1-73e6-47f5-a586-9a85de3fc7b9",
+              "label": "1 Regular Drink",
+              "price": 40,
+              "quantity": 0
+            },
+            "totalPrice": 130
+          }
+        ],
+        "orderTime": "1539080836427",
+        "status": "Delivered",
+        "totalPrice": 770
+      },
+      "1539080888298": {
+        "delivery_time": "15 min",
+        "orderList": [
+          {
+            "description": " 1 Tower Burger, Add-on (1 Hot Shot), Make a meal (1 Fries & Regular Drink),",
+            "item": {
+              "foodName": "Tower Burger",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FZinger_Burgers%2FTower%20Burger.png?alt=media&token=93ea1707-062a-4769-9aef-9d03e17dc546",
+              "price": 330,
+              "quantity": 0
+            },
+            "totalPrice": 520
+          }
+        ],
+        "orderTime": "1539080888298",
+        "status": "Delivered",
+        "totalPrice": 520
+      },
+      "1539081129330": {
+        "delivery_time": "15 min",
+        "orderList": [
+          {
+            "description": " 9 Triple Chicken Burger, Make a meal (2 Fries & Regular Drink),",
+            "item": {
+              "foodName": "Triple Chicken Burger",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FChicken_burgers%2FTripple%20Chicken%20Burger.png?alt=media&token=de866b43-83ce-4f84-a2c2-b3d2b2017db6",
+              "price": 360,
+              "quantity": 0
+            },
+            "totalPrice": 3440
+          }
+        ],
+        "orderTime": "1539081129330",
+        "status": "Accepted",
+        "totalPrice": 3440
+      }
+    },
+    "+923152266855": {
+      "1538645409306": {
+        "delivery_time": "Product is not available",
+        "orderList": [
+          {
+            "description": " 1 Tower Burger,",
+            "item": {
+              "foodName": "Tower Burger",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FZinger_Burgers%2FTower%20Burger.png?alt=media&token=93ea1707-062a-4769-9aef-9d03e17dc546",
+              "price": 330,
+              "quantity": 1
+            },
+            "totalPrice": 330
+          }
+        ],
+        "orderTime": "1538645409306",
+        "status": "Rejected",
+        "totalPrice": 380
+      },
+      "1538972707423": {
+        "delivery_time": "1:15 hr",
+        "orderList": [
+          {
+            "description": " 1 New Arrival, Pizza Deal Flavors (Chicken Kebab) Drink Flavour (7up)",
+            "item": {
+              "foodName": "New Arrival",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FNew_Arrival%2FPizza%20Paratha.png?alt=media&token=e424f03f-06de-402e-a55c-a3c8ab1d845b",
+              "label": "1 Pizza Paratha, 1 Regular Drink, Fries",
+              "price": 280,
+              "quantity": 1
+            },
+            "totalPrice": 280
+          }
+        ],
+        "orderTime": "1538972707423",
+        "status": "Accepted",
+        "totalPrice": 330
+      },
+      "1538972720875": {
+        "delivery_time": "45 min",
+        "orderList": [
+          {
+            "description": " 1 Deal 6, Drink Flavour (Coca Cola)",
+            "item": {
+              "foodName": "Deal 6",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FBurger_Deals_Exclusive%2FDeal_6.png?alt=media&token=a8affb81-bd54-4a6a-a0ad-064b4eeb32d4",
+              "label": "4 Tower Burgers, Drink (1.5 ltr)",
+              "price": 1150,
+              "quantity": 1
+            },
+            "totalPrice": 1150
+          }
+        ],
+        "orderTime": "1538972720875",
+        "status": "Accepted",
+        "totalPrice": 1150
+      },
+      "1538973904664": {
+        "delivery_time": "15 min",
+        "orderList": [
+          {
+            "description": " 1 Double Tower,",
+            "item": {
+              "foodName": "Double Tower",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FZinger_Burgers%2FDouble%20Tower.png?alt=media&token=69ac706c-7740-4d36-8695-8dccf6b51b12",
+              "price": 400,
+              "quantity": 1
+            },
+            "totalPrice": 400
+          }
+        ],
+        "orderTime": "1538973904664",
+        "status": "Accepted",
+        "totalPrice": 400
+      },
+      "1538973915870": {
+        "delivery_time": "15 min",
+        "orderList": [
+          {
+            "description": " 1 Mighty Burger, Make a meal (1 Fries & Regular Drink),",
+            "item": {
+              "foodName": "Mighty Burger",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FZinger_Burgers%2FMighty%20Burger.png?alt=media&token=5e70f342-b44a-476b-950c-c7a83d5fa14f",
+              "price": 420,
+              "quantity": 1
+            },
+            "totalPrice": 520
+          }
+        ],
+        "orderTime": "1538973915870",
+        "status": "Accepted",
+        "totalPrice": 520
+      },
+      "1538973930978": {
+        "delivery_time": "15 min",
+        "orderList": [
+          {
+            "description": " 1 Chicken Burger,",
+            "item": {
+              "foodName": "Chicken Burger",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FChicken_burgers%2FChicken%20Burger.png?alt=media&token=7b616295-aa22-44b4-b372-bc4931a8c811",
+              "price": 200,
+              "quantity": 1
+            },
+            "totalPrice": 200
+          }
+        ],
+        "orderTime": "1538973930978",
+        "status": "Accepted",
+        "totalPrice": 250
+      },
+      "1538974024090": {
+        "delivery_time": "15 min",
+        "orderList": [
+          {
+            "description": " 1 Triple Chicken Burger, Add-on (1 Fries,1 Crunch Wings),",
+            "item": {
+              "foodName": "Triple Chicken Burger",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FChicken_burgers%2FTripple%20Chicken%20Burger.png?alt=media&token=de866b43-83ce-4f84-a2c2-b3d2b2017db6",
+              "price": 360,
+              "quantity": 1
+            },
+            "totalPrice": 650
+          }
+        ],
+        "orderTime": "1538974024090",
+        "status": "Accepted",
+        "totalPrice": 650
+      }
+    },
+    "+923215200058": {
+      "1539077692842": {
+        "delivery_time": "Not Applicable",
+        "orderList": [
+          {
+            "description": " 1 Chicken Burgers, Add-on (1 Fries,1 Hot Shot,1 Crunch Wings),",
+            "item": {
+              "foodName": "Chicken Burgers",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FDeals_of_the_day%2FDeal-1.jpg?alt=media&token=6cdfdedd-7f30-4e4c-9eae-d950a6b63e3c",
+              "label": "02 Chicken Burgers",
+              "price": 350,
+              "quantity": 0
+            },
+            "totalPrice": 730
+          }
+        ],
+        "orderTime": "1539077692842",
+        "status": "Pending",
+        "totalPrice": 730
+      },
+      "1539077916449": {
+        "delivery_time": "Product is not available",
+        "orderList": [
+          {
+            "description": " 1 Kebab Pizza, Drink Flavour (Coca Cola)",
+            "item": {
+              "foodName": "Kebab Pizza",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FDeals_of_the_day%2FDeal-4.jpg?alt=media&token=11657e09-6377-4768-9c05-4bfc4a457bc2",
+              "label": "1 Medium Kebab Pizza,1 Cold drink (1.5 Ltr) & 2 Roll Parathas free",
+              "price": 1000,
+              "quantity": 0
+            },
+            "totalPrice": 1000
+          }
+        ],
+        "orderTime": "1539077916449",
+        "status": "Rejected",
+        "totalPrice": 1000
+      }
+    },
+    "+923222228469": {
+      "1538645116018": {
+        "delivery_time": "15 min",
+        "orderList": [
+          {
+            "description": " 1 Deal 1, Pizza Deal Flavors (Chicken Grilled,Chicken Tikka) Drink Flavour (Coca Cola)",
+            "item": {
+              "foodName": "Deal 1",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FPizza_Deals%2FPizzaDeal1.png?alt=media&token=dbbed4c0-bd93-42fe-b793-0ed17f3cf36c",
+              "label": "2 Medium Pizza, 1 Drink (1.5 Ltr)",
+              "price": 1100,
+              "quantity": 1
+            },
+            "totalPrice": 1100
+          }
+        ],
+        "orderTime": "1538645116018",
+        "status": "Delivered",
+        "totalPrice": 1100
+      },
+      "1538645237851": {
+        "delivery_time": "Product is not available",
+        "orderList": [
+          {
+            "description": " 1 Double Tower,",
+            "item": {
+              "foodName": "Double Tower",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FZinger_Burgers%2FDouble%20Tower.png?alt=media&token=69ac706c-7740-4d36-8695-8dccf6b51b12",
+              "price": 400,
+              "quantity": 1
+            },
+            "totalPrice": 400
+          }
+        ],
+        "orderTime": "1538645237851",
+        "status": "Rejected",
+        "totalPrice": 400
+      },
+      "1538645409935": {
+        "delivery_time": "Product is not available",
+        "orderList": [
+          {
+            "description": " 1 Tower Burger,",
+            "item": {
+              "foodName": "Tower Burger",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FZinger_Burgers%2FTower%20Burger.png?alt=media&token=93ea1707-062a-4769-9aef-9d03e17dc546",
+              "price": 330,
+              "quantity": 1
+            },
+            "totalPrice": 330
+          }
+        ],
+        "orderTime": "1538645409935",
+        "status": "Rejected",
+        "totalPrice": 380
+      },
+      "1538647617633": {
+        "delivery_time": "Product is not available",
+        "orderList": [
+          {
+            "description": " 1 Tower Burger,",
+            "item": {
+              "foodName": "Tower Burger",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FZinger_Burgers%2FTower%20Burger.png?alt=media&token=93ea1707-062a-4769-9aef-9d03e17dc546",
+              "price": 330,
+              "quantity": 1
+            },
+            "totalPrice": 330
+          }
+        ],
+        "orderTime": "1538647617633",
+        "status": "Rejected",
+        "totalPrice": 380
+      },
+      "1538647794840": {
+        "delivery_time": "Product is not available",
+        "orderList": [
+          {
+            "description": " 1 Tower Burger,",
+            "item": {
+              "foodName": "Tower Burger",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FZinger_Burgers%2FTower%20Burger.png?alt=media&token=93ea1707-062a-4769-9aef-9d03e17dc546",
+              "price": 330,
+              "quantity": 1
+            },
+            "totalPrice": 330
+          }
+        ],
+        "orderTime": "1538647794840",
+        "status": "Rejected",
+        "totalPrice": 380
+      }
+    },
+    "+923300608876": {
+      "1539060325470": {
+        "delivery_time": "Not Applicable",
+        "orderList": [
+          {
+            "description": " 1 New Arrival, Pizza Deal Flavors (Chicken Kebab) Drink Flavour (7up)",
+            "item": {
+              "foodName": "New Arrival",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FNew_Arrival%2FPizza%20Paratha.png?alt=media&token=e424f03f-06de-402e-a55c-a3c8ab1d845b",
+              "label": "1 Pizza Paratha, 1 Regular Drink, Fries",
+              "price": 280,
+              "quantity": 1
+            },
+            "totalPrice": 280
+          },
+          {
+            "description": " 1 New Arrival, Make a meal (1 Fries & Regular Drink), Pizza Deal Flavors (Chicken Kebab) Drink Flavour (7up)",
+            "item": {
+              "foodName": "New Arrival",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FNew_Arrival%2FPizza%20Paratha.png?alt=media&token=e424f03f-06de-402e-a55c-a3c8ab1d845b",
+              "label": "1 Pizza Paratha, 1 Regular Drink, Fries",
+              "price": 280,
+              "quantity": 1
+            },
+            "totalPrice": 380
+          }
+        ],
+        "orderTime": "1539060325470",
+        "status": "Pending",
+        "totalPrice": 660
+      },
+      "1539064101329": {
+        "delivery_time": "Not Applicable",
+        "orderList": [
+          {
+            "description": " 1 Chicken Burgers,",
+            "item": {
+              "foodName": "Chicken Burgers",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FDeals_of_the_day%2FDeal-1.jpg?alt=media&token=6cdfdedd-7f30-4e4c-9eae-d950a6b63e3c",
+              "label": "02 Chicken Burgers",
+              "price": 350,
+              "quantity": 1
+            },
+            "totalPrice": 350
+          },
+          {
+            "description": " 1 Chicken Burgers,",
+            "item": {
+              "foodName": "Chicken Burgers",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FDeals_of_the_day%2FDeal-1.jpg?alt=media&token=6cdfdedd-7f30-4e4c-9eae-d950a6b63e3c",
+              "label": "02 Chicken Burgers",
+              "price": 350,
+              "quantity": 1
+            },
+            "totalPrice": 350
+          }
+        ],
+        "orderTime": "1539064101329",
+        "status": "Pending",
+        "totalPrice": 700
+      },
+      "1539066551724": {
+        "delivery_time": "Not Applicable",
+        "orderList": [
+          {
+            "description": " 1 Chicken Burgers,",
+            "item": {
+              "foodName": "Chicken Burgers",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FDeals_of_the_day%2FDeal-1.jpg?alt=media&token=6cdfdedd-7f30-4e4c-9eae-d950a6b63e3c",
+              "label": "02 Chicken Burgers",
+              "price": 350,
+              "quantity": 1
+            },
+            "totalPrice": 350
+          }
+        ],
+        "orderTime": "1539066551724",
+        "status": "Pending",
+        "totalPrice": 400
+      },
+      "1539066584701": {
+        "delivery_time": "Not Applicable",
+        "orderList": [
+          {
+            "description": " 1 Chicken Burgers,",
+            "item": {
+              "foodName": "Chicken Burgers",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FDeals_of_the_day%2FDeal-1.jpg?alt=media&token=6cdfdedd-7f30-4e4c-9eae-d950a6b63e3c",
+              "label": "02 Chicken Burgers",
+              "price": 350,
+              "quantity": 1
+            },
+            "totalPrice": 350
+          }
+        ],
+        "orderTime": "1539066584701",
+        "status": "Pending",
+        "totalPrice": 400
+      },
+      "1539066608469": {
+        "delivery_time": "Not Applicable",
+        "orderList": [
+          {
+            "description": " 1 Chicken Burgers,",
+            "item": {
+              "foodName": "Chicken Burgers",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FDeals_of_the_day%2FDeal-1.jpg?alt=media&token=6cdfdedd-7f30-4e4c-9eae-d950a6b63e3c",
+              "label": "02 Chicken Burgers",
+              "price": 350,
+              "quantity": 1
+            },
+            "totalPrice": 350
+          }
+        ],
+        "orderTime": "1539066608469",
+        "status": "Pending",
+        "totalPrice": 400
+      },
+      "1539066623024": {
+        "delivery_time": "Not Applicable",
+        "orderList": [
+          {
+            "description": " 1 Chicken Burgers,",
+            "item": {
+              "foodName": "Chicken Burgers",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FDeals_of_the_day%2FDeal-1.jpg?alt=media&token=6cdfdedd-7f30-4e4c-9eae-d950a6b63e3c",
+              "label": "02 Chicken Burgers",
+              "price": 350,
+              "quantity": 1
+            },
+            "totalPrice": 350
+          }
+        ],
+        "orderTime": "1539066623024",
+        "status": "Pending",
+        "totalPrice": 400
+      }
+    },
+    "+923454080247": {
+      "1538973877921": {
+        "delivery_time": "15 min",
+        "orderList": [
+          {
+            "description": " 1 Double Tower,",
+            "item": {
+              "foodName": "Double Tower",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FZinger_Burgers%2FDouble%20Tower.png?alt=media&token=69ac706c-7740-4d36-8695-8dccf6b51b12",
+              "price": 400,
+              "quantity": 1
+            },
+            "totalPrice": 400
+          }
+        ],
+        "orderTime": "1538973877921",
+        "status": "Accepted",
+        "totalPrice": 400
+      },
+      "1538973901538": {
+        "delivery_time": "15 min",
+        "orderList": [
+          {
+            "description": " 1 Mighty Burger,",
+            "item": {
+              "foodName": "Mighty Burger",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FZinger_Burgers%2FMighty%20Burger.png?alt=media&token=5e70f342-b44a-476b-950c-c7a83d5fa14f",
+              "price": 420,
+              "quantity": 1
+            },
+            "totalPrice": 420
+          }
+        ],
+        "orderTime": "1538973901538",
+        "status": "Accepted",
+        "totalPrice": 420
+      },
+      "1538990965380": {
+        "delivery_time": "Not Applicable",
+        "orderList": [
+          {
+            "description": " 1 Chicken Burgers,",
+            "item": {
+              "foodName": "Chicken Burgers",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FDeals_of_the_day%2FDeal-1.jpg?alt=media&token=6cdfdedd-7f30-4e4c-9eae-d950a6b63e3c",
+              "label": "02 Chicken Burgers",
+              "price": 350,
+              "quantity": 1
+            },
+            "totalPrice": 350
+          }
+        ],
+        "orderTime": "1538990965380",
+        "status": "Pending",
+        "totalPrice": 400
+      },
+      "1538990994817": {
+        "delivery_time": "Not Applicable",
+        "orderList": [
+          {
+            "description": " 1 Tower Burger,",
+            "item": {
+              "foodName": "Tower Burger",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FZinger_Burgers%2FTower%20Burger.png?alt=media&token=93ea1707-062a-4769-9aef-9d03e17dc546",
+              "price": 330,
+              "quantity": 1
+            },
+            "totalPrice": 330
+          }
+        ],
+        "orderTime": "1538990994817",
+        "status": "Pending",
+        "totalPrice": 380
+      },
+      "1538992182346": {
+        "delivery_time": "Not Applicable",
+        "orderList": [
+          {
+            "description": " 1 Double Tower,",
+            "item": {
+              "foodName": "Double Tower",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FZinger_Burgers%2FDouble%20Tower.png?alt=media&token=69ac706c-7740-4d36-8695-8dccf6b51b12",
+              "price": 400,
+              "quantity": 1
+            },
+            "totalPrice": 400
+          }
+        ],
+        "orderTime": "1538992182346",
+        "status": "Pending",
+        "totalPrice": 400
+      },
+      "1538992197643": {
+        "delivery_time": "Not Applicable",
+        "orderList": [
+          {
+            "description": " 1 Mighty Burger,",
+            "item": {
+              "foodName": "Mighty Burger",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FZinger_Burgers%2FMighty%20Burger.png?alt=media&token=5e70f342-b44a-476b-950c-c7a83d5fa14f",
+              "price": 420,
+              "quantity": 1
+            },
+            "totalPrice": 420
+          }
+        ],
+        "orderTime": "1538992197643",
+        "status": "Pending",
+        "totalPrice": 420
+      },
+      "1538992239132": {
+        "delivery_time": "Not Applicable",
+        "orderList": [
+          {
+            "description": " 1 Mighty Burger,",
+            "item": {
+              "foodName": "Mighty Burger",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FZinger_Burgers%2FMighty%20Burger.png?alt=media&token=5e70f342-b44a-476b-950c-c7a83d5fa14f",
+              "price": 420,
+              "quantity": 1
+            },
+            "totalPrice": 420
+          }
+        ],
+        "orderTime": "1538992239132",
+        "status": "Pending",
+        "totalPrice": 420
+      },
+      "1538992275812": {
+        "delivery_time": "Not Applicable",
+        "orderList": [
+          {
+            "description": " 1 Tower Burger,",
+            "item": {
+              "foodName": "Tower Burger",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FZinger_Burgers%2FTower%20Burger.png?alt=media&token=93ea1707-062a-4769-9aef-9d03e17dc546",
+              "price": 330,
+              "quantity": 1
+            },
+            "totalPrice": 330
+          },
+          {
+            "description": " 1 Tower Burger,",
+            "item": {
+              "foodName": "Tower Burger",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FZinger_Burgers%2FTower%20Burger.png?alt=media&token=93ea1707-062a-4769-9aef-9d03e17dc546",
+              "price": 330,
+              "quantity": 1
+            },
+            "totalPrice": 330
+          }
+        ],
+        "orderTime": "1538992275812",
+        "status": "Pending",
+        "totalPrice": 660
+      },
+      "1538992293614": {
+        "delivery_time": "Not Applicable",
+        "orderList": [
+          {
+            "description": " 1 Deal 6, Drink Flavour (Fanta)",
+            "item": {
+              "foodName": "Deal 6",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FBurger_Deals_Exclusive%2FDeal_6.png?alt=media&token=a8affb81-bd54-4a6a-a0ad-064b4eeb32d4",
+              "label": "4 Tower Burgers, Drink (1.5 ltr)",
+              "price": 1150,
+              "quantity": 1
+            },
+            "totalPrice": 1150
+          }
+        ],
+        "orderTime": "1538992293614",
+        "status": "Pending",
+        "totalPrice": 1150
+      },
+      "1538992354132": {
+        "delivery_time": "Not Applicable",
+        "orderList": [
+          {
+            "description": " 1 Tower Burger,",
+            "item": {
+              "foodName": "Tower Burger",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FZinger_Burgers%2FTower%20Burger.png?alt=media&token=93ea1707-062a-4769-9aef-9d03e17dc546",
+              "price": 330,
+              "quantity": 1
+            },
+            "totalPrice": 330
+          }
+        ],
+        "orderTime": "1538992354132",
+        "status": "Pending",
+        "totalPrice": 380
+      },
+      "1538992366921": {
+        "delivery_time": "Not Applicable",
+        "orderList": [
+          {
+            "description": " 1 Deal 7, Drink Flavour (Fanta)",
+            "item": {
+              "foodName": "Deal 7",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FBurger_Deals_Exclusive%2FDeal_7.png?alt=media&token=8813e102-e07a-426a-af84-95f09bf1da9f",
+              "label": "4 Mighty Burgers, Drink (1.5 ltr)",
+              "price": 1450,
+              "quantity": 1
+            },
+            "totalPrice": 1450
+          }
+        ],
+        "orderTime": "1538992366921",
+        "status": "Pending",
+        "totalPrice": 1450
+      },
+      "1538992500091": {
+        "delivery_time": "Not Applicable",
+        "orderList": [
+          {
+            "description": " 1 Deal 7, Drink Flavour (7up)",
+            "item": {
+              "foodName": "Deal 7",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FBurger_Deals_Exclusive%2FDeal_7.png?alt=media&token=8813e102-e07a-426a-af84-95f09bf1da9f",
+              "label": "4 Mighty Burgers, Drink (1.5 ltr)",
+              "price": 1450,
+              "quantity": 1
+            },
+            "totalPrice": 1450
+          }
+        ],
+        "orderTime": "1538992500091",
+        "status": "Pending",
+        "totalPrice": 1450
+      },
+      "1538992528959": {
+        "delivery_time": "Not Applicable",
+        "orderList": [
+          {
+            "description": " 1 Deal 7, Drink Flavour (7up)",
+            "item": {
+              "foodName": "Deal 7",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FBurger_Deals_Exclusive%2FDeal_7.png?alt=media&token=8813e102-e07a-426a-af84-95f09bf1da9f",
+              "label": "4 Mighty Burgers, Drink (1.5 ltr)",
+              "price": 1450,
+              "quantity": 1
+            },
+            "totalPrice": 1450
+          }
+        ],
+        "orderTime": "1538992528959",
+        "status": "Pending",
+        "totalPrice": 1450
+      },
+      "1538992568929": {
+        "delivery_time": "Not Applicable",
+        "orderList": [
+          {
+            "description": " 1 Deal 3, Drink Flavour (7up,Fanta)",
+            "item": {
+              "foodName": "Deal 3",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FBurger_Deals_Exclusive%2FDeal_3.png?alt=media&token=2a7280cb-4127-4002-ac62-796c94bf3855",
+              "label": "2 zinger, 2 Chicken Pc, 2 Cold Drinks, Fries",
+              "price": 800,
+              "quantity": 1
+            },
+            "totalPrice": 800
+          }
+        ],
+        "orderTime": "1538992568929",
+        "status": "Pending",
+        "totalPrice": 800
+      },
+      "1538992577197": {
+        "delivery_time": "Not Applicable",
+        "orderList": [
+          {
+            "description": " 1 Tower Burger,",
+            "item": {
+              "foodName": "Tower Burger",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FZinger_Burgers%2FTower%20Burger.png?alt=media&token=93ea1707-062a-4769-9aef-9d03e17dc546",
+              "price": 330,
+              "quantity": 1
+            },
+            "totalPrice": 330
+          }
+        ],
+        "orderTime": "1538992577197",
+        "status": "Pending",
+        "totalPrice": 380
+      },
+      "1538992587184": {
+        "delivery_time": "Not Applicable",
+        "orderList": [
+          {
+            "description": " 1 Veggie, Pizza Type (Medium)",
+            "item": {
+              "foodName": "Veggie",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FPizza%2F8-(Veggie).png?alt=media&token=98da2063-c7c3-4ffb-9563-4e034cf58701",
+              "price": 650,
+              "quantity": 1
+            },
+            "totalPrice": 650
+          }
+        ],
+        "orderTime": "1538992587184",
+        "status": "Pending",
+        "totalPrice": 650
+      },
+      "1538992707483": {
+        "delivery_time": "Not Applicable",
+        "orderList": [
+          {
+            "description": " 1 Triple Chicken Burger,",
+            "item": {
+              "foodName": "Triple Chicken Burger",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FChicken_burgers%2FTripple%20Chicken%20Burger.png?alt=media&token=de866b43-83ce-4f84-a2c2-b3d2b2017db6",
+              "price": 360,
+              "quantity": 1
+            },
+            "totalPrice": 360
+          }
+        ],
+        "orderTime": "1538992707483",
+        "status": "Pending",
+        "totalPrice": 360
+      },
+      "1538992729737": {
+        "delivery_time": "Not Applicable",
+        "orderList": [
+          {
+            "description": " 1 Mighty Burger,",
+            "item": {
+              "foodName": "Mighty Burger",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FZinger_Burgers%2FMighty%20Burger.png?alt=media&token=5e70f342-b44a-476b-950c-c7a83d5fa14f",
+              "price": 420,
+              "quantity": 1
+            },
+            "totalPrice": 420
+          }
+        ],
+        "orderTime": "1538992729737",
+        "status": "Pending",
+        "totalPrice": 420
+      },
+      "1538993434502": {
+        "delivery_time": "15 min",
+        "orderList": [
+          {
+            "description": " 1 Tower Burger,",
+            "item": {
+              "foodName": "Tower Burger",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FZinger_Burgers%2FTower%20Burger.png?alt=media&token=93ea1707-062a-4769-9aef-9d03e17dc546",
+              "price": 330,
+              "quantity": 1
+            },
+            "totalPrice": 330
+          }
+        ],
+        "orderTime": "1538993434502",
+        "status": "Accepted",
+        "totalPrice": 380
+      },
+      "1538993721308": {
+        "delivery_time": "15 min",
+        "orderList": [
+          {
+            "description": " 1 Tower Burger,",
+            "item": {
+              "foodName": "Tower Burger",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FZinger_Burgers%2FTower%20Burger.png?alt=media&token=93ea1707-062a-4769-9aef-9d03e17dc546",
+              "price": 330,
+              "quantity": 1
+            },
+            "totalPrice": 330
+          }
+        ],
+        "orderTime": "1538993721308",
+        "status": "Delivered",
+        "totalPrice": 380
+      },
+      "1538995280315": {
+        "delivery_time": "15 min",
+        "orderList": [
+          {
+            "description": " 1 Tower Burger,",
+            "item": {
+              "foodName": "Tower Burger",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FZinger_Burgers%2FTower%20Burger.png?alt=media&token=93ea1707-062a-4769-9aef-9d03e17dc546",
+              "price": 330,
+              "quantity": 1
+            },
+            "totalPrice": 330
+          }
+        ],
+        "orderTime": "1538995280315",
+        "status": "Accepted",
+        "totalPrice": 380
+      },
+      "1538995291667": {
+        "delivery_time": "15 min",
+        "orderList": [
+          {
+            "description": " 1 Mighty Burger,",
+            "item": {
+              "foodName": "Mighty Burger",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FZinger_Burgers%2FMighty%20Burger.png?alt=media&token=5e70f342-b44a-476b-950c-c7a83d5fa14f",
+              "price": 420,
+              "quantity": 1
+            },
+            "totalPrice": 420
+          }
+        ],
+        "orderTime": "1538995291667",
+        "status": "Accepted",
+        "totalPrice": 420
+      },
+      "1538996349376": {
+        "delivery_time": "15 min",
+        "orderList": [
+          {
+            "description": " 1 Tower Burger,",
+            "item": {
+              "foodName": "Tower Burger",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FZinger_Burgers%2FTower%20Burger.png?alt=media&token=93ea1707-062a-4769-9aef-9d03e17dc546",
+              "price": 330,
+              "quantity": 1
+            },
+            "totalPrice": 330
+          }
+        ],
+        "orderTime": "1538996349376",
+        "status": "Accepted",
+        "totalPrice": 380
+      },
+      "1538996497492": {
+        "delivery_time": "15 min",
+        "orderList": [
+          {
+            "description": " 1 Tower Burger,",
+            "item": {
+              "foodName": "Tower Burger",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FZinger_Burgers%2FTower%20Burger.png?alt=media&token=93ea1707-062a-4769-9aef-9d03e17dc546",
+              "price": 330,
+              "quantity": 1
+            },
+            "totalPrice": 330
+          }
+        ],
+        "orderTime": "1538996497492",
+        "status": "Accepted",
+        "totalPrice": 380
+      },
+      "1539000073035": {
+        "delivery_time": "15 min",
+        "orderList": [
+          {
+            "description": " 1 Tower Burger,",
+            "item": {
+              "foodName": "Tower Burger",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FZinger_Burgers%2FTower%20Burger.png?alt=media&token=93ea1707-062a-4769-9aef-9d03e17dc546",
+              "price": 330,
+              "quantity": 1
+            },
+            "totalPrice": 330
+          }
+        ],
+        "orderTime": "1539000073035",
+        "status": "Accepted",
+        "totalPrice": 380
+      },
+      "1539000617845": {
+        "delivery_time": "Not Applicable",
+        "orderList": [
+          {
+            "description": " 1 Mighty Burger,",
+            "item": {
+              "foodName": "Mighty Burger",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FZinger_Burgers%2FMighty%20Burger.png?alt=media&token=5e70f342-b44a-476b-950c-c7a83d5fa14f",
+              "price": 420,
+              "quantity": 1
+            },
+            "totalPrice": 420
+          }
+        ],
+        "orderTime": "1539000617845",
+        "status": "Pending",
+        "totalPrice": 420
+      },
+      "1539000632084": {
+        "delivery_time": "15 min",
+        "orderList": [
+          {
+            "description": " 1 Mighty Burger,",
+            "item": {
+              "foodName": "Mighty Burger",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FZinger_Burgers%2FMighty%20Burger.png?alt=media&token=5e70f342-b44a-476b-950c-c7a83d5fa14f",
+              "price": 420,
+              "quantity": 1
+            },
+            "totalPrice": 420
+          }
+        ],
+        "orderTime": "1539000632084",
+        "status": "Accepted",
+        "totalPrice": 420
+      },
+      "1539000646831": {
+        "delivery_time": "Not Applicable",
+        "orderList": [
+          {
+            "description": " 1 Tower Burger,",
+            "item": {
+              "foodName": "Tower Burger",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FZinger_Burgers%2FTower%20Burger.png?alt=media&token=93ea1707-062a-4769-9aef-9d03e17dc546",
+              "price": 330,
+              "quantity": 1
+            },
+            "totalPrice": 330
+          }
+        ],
+        "orderTime": "1539000646831",
+        "status": "Pending",
+        "totalPrice": 380
+      },
+      "1539000657679": {
+        "delivery_time": "15 min",
+        "orderList": [
+          {
+            "description": " 1 Double Chicken Burger,",
+            "item": {
+              "foodName": "Double Chicken Burger",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FChicken_burgers%2FDouble%20Chicken%20Burger.png?alt=media&token=b135f86f-c089-4763-b07a-9aa8b0d1f1d2",
+              "price": 280,
+              "quantity": 1
+            },
+            "totalPrice": 280
+          }
+        ],
+        "orderTime": "1539000657679",
+        "status": "Accepted",
+        "totalPrice": 330
+      },
+      "1539063027503": {
+        "delivery_time": "15 min",
+        "orderList": [
+          {
+            "description": " 1 Mighty Burger,",
+            "item": {
+              "foodName": "Mighty Burger",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FZinger_Burgers%2FMighty%20Burger.png?alt=media&token=5e70f342-b44a-476b-950c-c7a83d5fa14f",
+              "price": 420,
+              "quantity": 1
+            },
+            "totalPrice": 420
+          }
+        ],
+        "orderTime": "1539063027503",
+        "status": "Accepted",
+        "totalPrice": 420
+      }
+    },
+    "+923470766786": {
+      "1539166009649": {
+        "delivery_time": "Product is not available",
+        "orderList": [
+          {
+            "description": " 1 Chicken Burgers,",
+            "item": {
+              "foodName": "Chicken Burgers",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FDeals_of_the_day%2FDeal-1.jpg?alt=media&token=6cdfdedd-7f30-4e4c-9eae-d950a6b63e3c",
+              "label": "02 Chicken Burgers",
+              "price": 350,
+              "quantity": 0
+            },
+            "totalPrice": 350
+          }
+        ],
+        "orderTime": "1539166009649",
+        "status": "Rejected",
+        "totalPrice": 400
+      }
+    },
+    "+923552856366": {
+      "1539158189051": {
+        "delivery_time": "Not Applicable",
+        "orderList": [
+          {
+            "description": " 1 Deal 2, Pizza Deal Flavors (Chicken Tikka,Chicken Tikka,Chicken Tikka) Drink Flavour (7up)",
+            "item": {
+              "foodName": "Deal 2",
+              "image": "https://firebasestorage.googleapis.com/v0/b/berlinfoodsapplication.appspot.com/o/Menu_Details%2FPizza_Deals%2FPizzaDeal2.png?alt=media&token=2805b437-ff3b-43cd-bbda-7f62d1b3e563",
+              "label": "3 Large Pizza, 1 Drink (1.5 Ltr)",
+              "price": 2400,
+              "quantity": 0
+            },
+            "totalPrice": 2400
+          }
+        ],
+        "orderTime": "1539158189051",
+        "status": "Pending",
+        "totalPrice": 2400
+      }
+    },
+    "03118525369": {
+      "1539082473704": {
+        "status": "Delivered"
+      }
+    },
+    "1539001904887": {
+      "delivery_time": "30 min",
+      "status": "Accepted"
+    },
+    "1539001981162": {
+      "delivery_time": "15 min",
+      "status": "Accepted"
+    },
+    "1539060325470": {
+      "delivery_time": "15 min",
+      "status": "Accepted"
+    },
+    "1539063033748": {
+      "delivery_time": "15 min",
+      "status": "Accepted"
+    },
+    "1539066551724": {
+      "delivery_time": "15 min",
+      "status": "Accepted"
+    },
+    "1539066584701": {
+      "delivery_time": "15 min",
+      "status": "Accepted"
+    },
+    "1539066608469": {
+      "delivery_time": "15 min",
+      "status": "Accepted"
+    },
+    "1539066623024": {
+      "delivery_time": "15 min",
+      "status": "Accepted"
+    },
+    "1539067233095": {
+      "delivery_time": "Rider is not available",
+      "status": "Rejected"
+    },
+    "1539067279487": {
+      "delivery_time": "15 min",
+      "status": "Accepted"
+    },
+    "1539067621391": {
+      "delivery_time": "15 min",
+      "status": "Accepted"
+    },
+    "1539068101174": {
+      "delivery_time": "15 min",
+      "status": "Accepted"
+    },
+    "1539068940563": {
+      "delivery_time": "1 hr",
+      "status": "Accepted"
+    },
+    "1539077692842": {
+      "delivery_time": "15 min",
+      "status": "Accepted"
+    },
+    "1539158094121": {
+      "delivery_time": "15 min",
+      "status": "Accepted"
+    },
+    "1539166465337": {
+      "delivery_time": "Rider is not available",
+      "status": "Rejected"
+    }
+  },
+  "deviceTokens": {
+    "1538129712515": {
+      "deviceToken": "ExponentPushToken[4IJthXD-Ok8HFx1k3uMc9i]"
+    },
+    "1538129809242": {
+      "deviceToken": "ExponentPushToken[MQMGY4DxTYmy0cFxlR6bDu]"
+    },
+    "1538130152865": {
+      "deviceToken": "ExponentPushToken[xYjProNedKNoskj-keTesw]"
+    },
+    "1538130891016": {
+      "deviceToken": "ExponentPushToken[ZOlhcfORLuMb9T1HVEaUjC]"
+    },
+    "1538241209434": {
+      "deviceToken": "ExponentPushToken[6jgHZhCHdtin3cNhFwdWRI]"
+    },
+    "1538241276155": {
+      "deviceToken": "ExponentPushToken[R-U0xJJ_PrOsQYUbVybrPP]"
+    },
+    "1538367324141": {
+      "deviceToken": "ExponentPushToken[BD0B76FPezFr83spVtIgjH]"
+    },
+    "1538367957288": {
+      "deviceToken": "ExponentPushToken[E70-ljIxSXrfIsCHaHTgbO]"
+    },
+    "1538371368928": {
+      "deviceToken": "ExponentPushToken[0B_TRKAhUqprMoPGRg8sTZ]"
+    },
+    "1538391283934": {
+      "deviceToken": "ExponentPushToken[sfb8JnPvbxM7d_-T7LqgJa]"
+    },
+    "1538405950132": {
+      "deviceToken": "ExponentPushToken[bBJNJhMgmOJRkbN-WajdUz]"
+    },
+    "1538464071917": {
+      "deviceToken": "ExponentPushToken[i-h-Z5AFmd70AiWZfX15ea]"
+    },
+    "1538464284812": {
+      "deviceToken": "ExponentPushToken[wojBhFENDSu9fJrysBC7ro]"
+    },
+    "1538464639184": {
+      "deviceToken": "ExponentPushToken[ETgQfQB2re72p0Xi4SCXAc]"
+    },
+    "1538492085087": {
+      "deviceToken": "ExponentPushToken[1DNmqZMIQwMJm48sIuoUb2]"
+    },
+    "1538715134806": {
+      "deviceToken": "ExponentPushToken[r5hOI_DNC4kJ0hDmbGvkxZ]"
+    },
+    "1538998588693": {
+      "deviceToken": "ExponentPushToken[PI3HDRPkPQv9dxnVqFy2-T]"
+    },
+    "1539149986883": {
+      "deviceToken": "ExponentPushToken[pF98rpBMenmYCU5RmAM9Xu]"
+    },
+    "1539157928092": {
+      "deviceToken": "ExponentPushToken[YBuv3GMWkUAaTVg9WyiCTk]"
+    },
+    "1539164075871": {
+      "deviceToken": "ExponentPushToken[RBRKbCOYt0pa13FTY7Z8NX]"
+    },
+    "1539169937418": {
+      "deviceToken": "ExponentPushToken[cXgUlJKklVemW6HTEiNbfP]"
+    },
+    "1539170884624": {
+      "deviceToken": "ExponentPushToken[woTzGsJMbqEOrrttikeJCN]"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "expo": {
+    "name": "Berlin Foods",
+    "icon": "./src/assets/icons/logo.png",
+    "version": "1.0.0",
+    "slug": "berlinfood",
+    "orientation": "portrait",
+    "sdkVersion": "27.0.0",
+    "splash": {
+      "image": "./src/assets/images/splash.png",
+      "resizeMode": "cover"
+    },
+    "notification": {
+      "icon": "./src/assets/icons/notification.png",
+      "color": "#FFFFFF",
+      "androidMode": "default"
+    },
+    "ios": {
+      "bundleIdentifier": "com.berlinfoods.app"
+    },
+    "android": {
+      "package": "com.berlinfoods.app",
+      "googleServicesFile": "./google-services.json"
+    },
+    "assetBundlePatterns": [
+      "./src/assets/images/splash.png",
+      "./src/assets/icons/logo.png",
+      "./src/assets/icons/logo1.png",
+      "./src/assets/icons/pakistan.png",
+      "./src/assets/icons/your-orders.png",
+      "./src/assets/icons/hamburger.png",
+      "./src/assets/icons/Facebook.png",
+      "./src/assets/icons/copy-rights.png",
+      "./src/assets/icons/insta.png",
+      "./src/assets/images/Approved.png",
+      "./src/assets/images/BG1.jpg",
+      "./src/assets/images/orders.png",
+      "./src/assets/images/Pending.png",
+      "./src/assets/images/Rejected.png"
+    ],
+    "description": ""
+  }
+}

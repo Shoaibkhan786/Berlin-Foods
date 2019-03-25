@@ -1,0 +1,249 @@
+{
+  "project_info": {
+    "project_number": "492702950060",
+    "firebase_url": "https://berlinfoodsapplication.firebaseio.com",
+    "project_id": "berlinfoodsapplication",
+    "storage_bucket": "berlinfoodsapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492702950060:android:e01d37ba76b57af5",
+        "android_client_info": {
+          "package_name": "com.berlinfoods.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492702950060-dk11djhq512mi0hhrj8p0kqu4r97ga3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL9i51fFmcWG1TlVL8xmK2-t4S3JYUtos"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492702950060:android:999d9705565d4786",
+        "android_client_info": {
+          "package_name": "com.hassaniqbalkhan.kitchenapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492702950060-j8d21pa2n7jjhva00dptjcb5ocjgp1pp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hassaniqbalkhan.kitchenapplication",
+            "certificate_hash": "50a79f36305817eca370f21d1ab110e2cbd304bf"
+          }
+        },
+        {
+          "client_id": "492702950060-dk11djhq512mi0hhrj8p0kqu4r97ga3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL9i51fFmcWG1TlVL8xmK2-t4S3JYUtos"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492702950060-dk11djhq512mi0hhrj8p0kqu4r97ga3m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492702950060:android:f034448f8f9dc17a",
+        "android_client_info": {
+          "package_name": "com.kitchen.mac.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492702950060-1a41jpg7be4u1gp231ihcfkh451m5879.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kitchen.mac.myapplication",
+            "certificate_hash": "69a33f5e26917c68fcfe83419d99e06fe96f73bb"
+          }
+        },
+        {
+          "client_id": "492702950060-dk11djhq512mi0hhrj8p0kqu4r97ga3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL9i51fFmcWG1TlVL8xmK2-t4S3JYUtos"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492702950060-dk11djhq512mi0hhrj8p0kqu4r97ga3m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492702950060:android:f55dcca3a40b4d1c",
+        "android_client_info": {
+          "package_name": "com.kitchen.mac.riderapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492702950060-dk11djhq512mi0hhrj8p0kqu4r97ga3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL9i51fFmcWG1TlVL8xmK2-t4S3JYUtos"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492702950060:android:2f5b769b378c9232",
+        "android_client_info": {
+          "package_name": "com.techspiders.berlinfoods"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492702950060-0u8bnekqhm3fbljv9iq25ndjpl6eb0u5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techspiders.berlinfoods",
+            "certificate_hash": "69a33f5e26917c68fcfe83419d99e06fe96f73bb"
+          }
+        },
+        {
+          "client_id": "492702950060-dk11djhq512mi0hhrj8p0kqu4r97ga3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL9i51fFmcWG1TlVL8xmK2-t4S3JYUtos"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492702950060-dk11djhq512mi0hhrj8p0kqu4r97ga3m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492702950060:android:be56c5d628beb1f4",
+        "android_client_info": {
+          "package_name": "com.techspiders.ridersideapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492702950060-o3dsb8o3vein4faqgb7jcfvbhrsn78mj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techspiders.ridersideapp",
+            "certificate_hash": "69a33f5e26917c68fcfe83419d99e06fe96f73bb"
+          }
+        },
+        {
+          "client_id": "492702950060-dk11djhq512mi0hhrj8p0kqu4r97ga3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL9i51fFmcWG1TlVL8xmK2-t4S3JYUtos"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492702950060-dk11djhq512mi0hhrj8p0kqu4r97ga3m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
